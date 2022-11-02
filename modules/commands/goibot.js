@@ -1,4 +1,5 @@
- const fs = global.nodemodule["fs-extra"];
+//file này được chỉnh theo ý muốn của tác giả, không phải là văn bản chuẩn! 
+const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
   name: "goibot",
   version: "1.0.1",
