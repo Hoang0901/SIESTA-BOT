@@ -12,6 +12,7 @@
 - **- Chỉ cần gắn appstate, thay thông tin config là được**
 - **- Sửa console thì chỉnh `vi.lang` và `log.js` trong utils**
 - **- Đã qua chạy thử thành công lần cuối trước khi tạo share file**
+- ***- Còn một số file khác sửa đổi thông tin liên quan đến admin hay bot thì tự làm nhé, tôi không hướng dẫn***
 
 # Cảnh Báo
 - **Cấm chỉnh sửa credits.**
@@ -26,8 +27,8 @@
 - **Web login: [MeewMeew](https://mewdev.pro/site)**
 
 # Cách fix các lỗi thường gặp:
-- * -Lỗi 'EADDRINUSE' - Cách fix: gõ `busybox killall node` vào shell
-- * -Lỗi... (đang cập nhật)
+- ***-Lỗi 'EADDRINUSE' - Cách fix: gõ*** `busybox killall node` ***vào shell***
+- ***-Lỗi... (đang cập nhật)***
 
 # Một số cách sửa module:
 - **goibot** - Sửa các câu bot reply (noprefix) [commands/goibot.js](modules/commands/goibot.js)
