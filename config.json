@@ -1,0 +1,155 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "BOTNAME": "[⚜️] 𝙎𝙄𝙀𝙎𝙏𝘼-𝘽𝙊𝙏 [🔱]",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100067716581530",
+        "100086116031465"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "help": {
+        "autoUnsend": false,
+        "delayUnsend": 10,
+        "unsendMessageAfter": 5
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyAPOLxogXUimECrUGr-2oFLoHk7B4XyAOY",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyB6pTkV2PM7yLVayhnjDSIM0cE_MbEtuvo"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "ghep": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "info": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "bank": {
+        "key": "DUBFREE"
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "cavev2": {
+        "cooldownTime": 100000
+    },
+    "duaxe": {
+        "key": "cuongngu"
+    },
+    "fbvideo": {
+        "API_KEY": "mzk_ZFOQVBQ1LEZYQD9FDZK"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "lq": {
+        "fb_token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "singv2": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "sim": {
+        "APIKEY": "Meew_1bPGPgOWofMSNPSqjGYsFxR4K02Sql"
+    },
+    "song": {
+        "API_KEY": "mzk_CI2XEVM25Q1ADE7FMSD"
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "voice": {
+        "zalo_apikey": "r5lKNWX89OJEJMXlUEpGEzcjByjGb2F0",
+        "fpt_apikey": "MhYPX3ksxwdqLC63LiAR4r47sOrkSdhj"
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "zwar": {
+        "cooldownTime": 1200000
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "menu": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 60
+    },
+    "simvoice": {
+        "APIKEY": "Meew_iy8Pjt6Iyt70zwtGbUg2H1jVlvOMvx"
+    }
+}
