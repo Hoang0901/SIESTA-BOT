@@ -1,0 +1,39 @@
+{
+  "name": "Chương Lee",
+  "ID": "100033644444759",
+  "pet": [
+    {
+      "name": "Solgaleo",
+      "type": "Psychic",
+      "HP": 137,
+      "Attack": 137,
+      "Defense": 107,
+      "Speed": 97,
+      "coins": 47800,
+      "skill": [
+        "Full Metal Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/791.png"
+    },
+    {
+      "name": "Tapu Koko",
+      "type": "Electric",
+      "HP": 70,
+      "Attack": 115,
+      "Defense": 85,
+      "Speed": 130,
+      "coins": 40000,
+      "skill": [
+        "Electric Surge",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/785.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 1
+  }
+}

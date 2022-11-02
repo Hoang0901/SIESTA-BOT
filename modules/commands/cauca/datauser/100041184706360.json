@@ -1,0 +1,20 @@
+{
+  "name": "Phan Huy",
+  "ID": "100041184706360",
+  "mainROD": null,
+  "GPS": {
+    "locate": null,
+    "area": null
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [],
+  "timeRegister": "3/14/2022, 7:35:56 PM"
+}

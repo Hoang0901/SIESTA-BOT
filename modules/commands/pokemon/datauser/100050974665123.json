@@ -1,0 +1,83 @@
+{
+  "name": "Đv Kiện Baka",
+  "ID": "100050974665123",
+  "pet": [
+    {
+      "name": "Zygarde",
+      "type": "Dragon",
+      "HP": 108,
+      "Attack": 100,
+      "Defense": 121,
+      "Speed": 95,
+      "coins": 42400,
+      "skill": [
+        "Aura Break"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/718.png"
+    },
+    {
+      "name": "Heracross",
+      "type": "Bug",
+      "HP": 80,
+      "Attack": 125,
+      "Defense": 75,
+      "Speed": 85,
+      "coins": 36500,
+      "skill": [
+        "Swarm",
+        "Guts",
+        "Moxie"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/214.png"
+    },
+    {
+      "name": "Walrein",
+      "type": "Ice",
+      "HP": 110,
+      "Attack": 80,
+      "Defense": 90,
+      "Speed": 65,
+      "coins": 34500,
+      "skill": [
+        "Thick Fat",
+        "Ice Body",
+        "Oblivious"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/365.png"
+    },
+    {
+      "name": "Butterfree",
+      "type": "Bug",
+      "HP": 60,
+      "Attack": 45,
+      "Defense": 50,
+      "Speed": 70,
+      "coins": 22500,
+      "skill": [
+        "Compound Eyes",
+        "Tinted Lens"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/012.png"
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Speed": 90,
+      "coins": 22000,
+      "skill": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

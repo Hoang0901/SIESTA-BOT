@@ -1,0 +1,284 @@
+{
+  "name": "Hoàng Long",
+  "ID": "100040529449106",
+  "pet": [
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": 105,
+      "Attack": 150,
+      "Defense": 90,
+      "Speed": 95,
+      "coins": 44000,
+      "skill": [
+        "Air Lock"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Drifloon",
+      "type": "Ghost",
+      "HP": "36.0",
+      "Attack": "20.0",
+      "Defense": "13.6",
+      "Speed": "28.0",
+      "skill": [
+        "Aftermath",
+        "Unburden",
+        "Flare Boost"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/425.png"
+    },
+    {
+      "name": "Tyranitar",
+      "type": "Rock",
+      "HP": "150.0",
+      "Attack": "201.0",
+      "Defense": "165.0",
+      "Speed": "91.5",
+      "skill": [
+        "Sand Stream",
+        "Unnerve"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/248.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": 126,
+      "Attack": 126,
+      "Defense": 126,
+      "Speed": 126,
+      "coins": 50400,
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Palkia",
+      "type": "Water",
+      "HP": 90,
+      "Attack": 120,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 41000,
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/484.png"
+    },
+    {
+      "name": "Dialga",
+      "type": "Steel",
+      "HP": 100,
+      "Attack": 120,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 43000,
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/483.png"
+    },
+    {
+      "name": "Giratina",
+      "type": "Ghost",
+      "HP": 150,
+      "Attack": 100,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 46000,
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/487.png"
+    },
+    {
+      "name": "Zygarde",
+      "type": "Dragon",
+      "HP": 108,
+      "Attack": 100,
+      "Defense": 121,
+      "Speed": 95,
+      "coins": 42400,
+      "skill": [
+        "Aura Break"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/718.png"
+    },
+    {
+      "name": "Victini",
+      "type": "Psychic",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Victory Star"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/494.png"
+    },
+    {
+      "name": "Jirachi",
+      "type": "Steel",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Serene Grace"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/385.png"
+    },
+    {
+      "name": "Shaymin",
+      "type": "Grass",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Natural Cure"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/492.png"
+    },
+    {
+      "name": "Larvitar",
+      "type": "Rock",
+      "HP": 50,
+      "Attack": 64,
+      "Defense": 50,
+      "Speed": 41,
+      "coins": 20500,
+      "skill": [
+        "Guts",
+        "Sand Veil"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/246.png"
+    },
+    {
+      "name": "Zekrom",
+      "type": "Dragon",
+      "HP": 100,
+      "Attack": 150,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 46000,
+      "skill": [
+        "Teravolt"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png"
+    },
+    {
+      "name": "Reshiram",
+      "type": "Dragon",
+      "HP": 100,
+      "Attack": 120,
+      "Defense": 100,
+      "Speed": 90,
+      "coins": 41000,
+      "skill": [
+        "Turboblaze"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/643.png"
+    },
+    {
+      "name": "Kyurem",
+      "type": "Dragon",
+      "HP": 125,
+      "Attack": 130,
+      "Defense": 90,
+      "Speed": 95,
+      "coins": 44000,
+      "skill": [
+        "Pressure"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/646.png"
+    },
+    {
+      "name": "Charizard",
+      "type": "Fire",
+      "HP": 78,
+      "Attack": 84,
+      "Defense": 78,
+      "Speed": 100,
+      "coins": 34000,
+      "skill": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png"
+    },
+    {
+      "name": "Greninja",
+      "type": "Water",
+      "HP": 72,
+      "Attack": 95,
+      "Defense": 67,
+      "Speed": 122,
+      "coins": 35600,
+      "skill": [
+        "Torrent",
+        "Protean"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/658.png"
+    },
+    {
+      "name": "Solgaleo",
+      "type": "Psychic",
+      "HP": 137,
+      "Attack": 137,
+      "Defense": 107,
+      "Speed": 97,
+      "coins": 47800,
+      "skill": [
+        "Full Metal Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/791.png"
+    },
+    {
+      "name": "Kommo-o",
+      "type": "Dragon",
+      "HP": 75,
+      "Attack": 110,
+      "Defense": 125,
+      "Speed": 85,
+      "coins": 39500,
+      "skill": [
+        "Bulletproof",
+        "Soundproof",
+        "Overcoat"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/784.png"
+    },
+    {
+      "name": "Magikarp",
+      "type": "Water",
+      "HP": 20,
+      "Attack": 10,
+      "Defense": 55,
+      "Speed": 80,
+      "coins": 16500,
+      "skill": [
+        "Swift Swim",
+        "Rattled"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/129.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 0,
+    "draw": 0
+  }
+}

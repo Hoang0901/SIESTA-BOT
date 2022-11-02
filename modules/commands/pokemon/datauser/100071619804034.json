@@ -1,0 +1,84 @@
+{
+  "name": "Nan Chil",
+  "ID": "100071619804034",
+  "pet": [
+    {
+      "name": "Haxorus",
+      "type": "Dragon",
+      "HP": "114.0",
+      "Attack": "220.5",
+      "Defense": "135.0",
+      "Speed": "145.5",
+      "skill": [
+        "Rivalry",
+        "Mold Breaker",
+        "Unnerve"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/612.png"
+    },
+    {
+      "name": "Mareanie",
+      "type": "Poison",
+      "HP": "50.0",
+      "Attack": "53.0",
+      "Defense": "62.0",
+      "Speed": "45.0",
+      "skill": [
+        "Merciless",
+        "Limber",
+        "Regenerator"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/747.png"
+    },
+    {
+      "name": "Starly",
+      "type": "Normal",
+      "HP": "60.0",
+      "Attack": "82.5",
+      "Defense": "45.0",
+      "Speed": "90.0",
+      "skill": [
+        "Keen Eye",
+        "Reckless"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/396.png"
+    },
+    {
+      "name": "Salamence",
+      "type": "Dragon",
+      "HP": "95.0",
+      "Attack": "135.0",
+      "Defense": "80.0",
+      "Speed": "100.0",
+      "skill": [
+        "Intimidate",
+        "Moxie"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/373.png"
+    },
+    {
+      "name": "Cyndaquil",
+      "type": "Fire",
+      "HP": "15.6",
+      "Attack": "20.8",
+      "Defense": "17.2",
+      "Speed": "26.0",
+      "skill": [
+        "Blaze",
+        "Flash Fire"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/155.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

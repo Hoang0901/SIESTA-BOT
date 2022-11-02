@@ -1,0 +1,18 @@
+{
+    "name": "Quốc Đạt",
+    "ID": "100067679103911",
+    "shield": 3,
+    "coins": 2200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 20,
+            "tree": 20,
+            "pool": 10,
+            "pet": 20
+        }
+    },
+    "spin": 0,
+    "timeRegister": "5/9/2022, 8:13:30 PM"
+}

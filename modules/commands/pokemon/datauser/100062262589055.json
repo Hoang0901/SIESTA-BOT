@@ -1,0 +1,26 @@
+{
+  "name": "PM Tuấn",
+  "ID": "100062262589055",
+  "pet": [
+    {
+      "name": "Vaporeon",
+      "type": "Water",
+      "HP": "185.3",
+      "Attack": 92.625,
+      "Defense": 85.5,
+      "Speed": 92.625,
+      "skill": [
+        "Water Absorb",
+        "Hydration"
+      ],
+      "coins": 19000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/134.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}

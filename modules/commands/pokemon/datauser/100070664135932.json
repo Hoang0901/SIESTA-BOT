@@ -1,0 +1,25 @@
+{
+  "name": "Nguyễn Lý Hải",
+  "ID": "100070664135932",
+  "pet": [
+    {
+      "name": "Melmetal",
+      "type": "Steel",
+      "HP": "189.0",
+      "Attack": "200.2",
+      "Defense": "200.2",
+      "Speed": "47.6",
+      "coins": "54600.0",
+      "skill": [
+        "Iron Fist"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/809.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

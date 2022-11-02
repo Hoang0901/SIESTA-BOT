@@ -1,0 +1,20 @@
+{
+    "name": "Hoài Thương",
+    "ID": "100077762201044",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "6/7/2022, 10:31:53 AM"
+}

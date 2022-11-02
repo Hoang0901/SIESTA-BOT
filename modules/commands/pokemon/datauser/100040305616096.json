@@ -1,0 +1,291 @@
+{
+  "name": "Thuận Nè",
+  "ID": "100040305616096",
+  "pet": [
+    {
+      "name": "Beautifly",
+      "type": "Bug",
+      "HP": "24.0",
+      "Attack": "28.0",
+      "Defense": "20.0",
+      "Speed": "26.0",
+      "skill": [
+        "Swarm",
+        "Rivalry"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/267.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "coins": 18800,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Mew",
+      "type": "Psychic",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Synchronize"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/151.png"
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": "148.4",
+      "Attack": "154.0",
+      "Defense": "126.0",
+      "Speed": "182.0",
+      "coins": "52320.0",
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    },
+    {
+      "name": "Lunala",
+      "type": "Psychic",
+      "HP": "191.8",
+      "Attack": "158.2",
+      "Defense": "124.6",
+      "Speed": "135.8",
+      "coins": "52320.0",
+      "skill": [
+        "Shadow Shield"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/792.png"
+    },
+    {
+      "name": "Necrozma",
+      "type": "Psychic",
+      "HP": 97,
+      "Attack": 107,
+      "Defense": 101,
+      "Speed": 79,
+      "coins": 38400,
+      "skill": [
+        "Prism Armor"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/800.png"
+    },
+    {
+      "name": "Zekrom",
+      "type": "Dragon",
+      "HP": "140.0",
+      "Attack": "210.0",
+      "Defense": "168.0",
+      "Speed": "126.0",
+      "coins": "55200.0",
+      "skill": [
+        "Teravolt"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": "168.0",
+      "Attack": "168.0",
+      "Defense": "168.0",
+      "Speed": "168.0",
+      "coins": "57600.0",
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Latios",
+      "type": "Dragon",
+      "HP": 80,
+      "Attack": 90,
+      "Defense": 80,
+      "Speed": 110,
+      "coins": 36000,
+      "skill": [
+        "Levitate"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/381.png"
+    },
+    {
+      "name": "Latias",
+      "type": "Dragon",
+      "HP": 80,
+      "Attack": 80,
+      "Defense": 90,
+      "Speed": 110,
+      "coins": 36000,
+      "skill": [
+        "Levitate"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/380.png"
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Speed": 90,
+      "coins": 22000,
+      "skill": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png"
+    },
+    {
+      "name": "Palkia",
+      "type": "Water",
+      "HP": 90,
+      "Attack": 120,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 41000,
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/484.png"
+    },
+    {
+      "name": "Greninja",
+      "type": "Water",
+      "HP": 72,
+      "Attack": 95,
+      "Defense": 67,
+      "Speed": 122,
+      "coins": 35600,
+      "skill": [
+        "Torrent",
+        "Protean"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/658.png"
+    },
+    {
+      "name": "Charizard",
+      "type": "Fire",
+      "HP": 78,
+      "Attack": 84,
+      "Defense": 78,
+      "Speed": 100,
+      "coins": 34000,
+      "skill": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png"
+    },
+    {
+      "name": "Tapu Lele",
+      "type": "Psychic",
+      "HP": 70,
+      "Attack": 85,
+      "Defense": 75,
+      "Speed": 95,
+      "coins": 32500,
+      "skill": [
+        "Psychic Surge",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/786.png"
+    },
+    {
+      "name": "Tapu Bulu",
+      "type": "Grass",
+      "HP": 70,
+      "Attack": 130,
+      "Defense": 115,
+      "Speed": 75,
+      "coins": 39000,
+      "skill": [
+        "Grassy Surge",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/787.png"
+    },
+    {
+      "name": "Lugia",
+      "type": "Psychic",
+      "HP": "148.4",
+      "Attack": "126.0",
+      "Defense": "182.0",
+      "Speed": "154.0",
+      "coins": "52320.0",
+      "skill": [
+        "Pressure",
+        "Multiscale"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/249.png"
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": "147.0",
+      "Attack": "210.0",
+      "Defense": "126.0",
+      "Speed": "133.0",
+      "coins": "52800.0",
+      "skill": [
+        "Air Lock"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Solgaleo",
+      "type": "Psychic",
+      "HP": "191.8",
+      "Attack": "191.8",
+      "Defense": "149.8",
+      "Speed": "135.8",
+      "coins": "57360.0",
+      "skill": [
+        "Full Metal Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/791.png"
+    },
+    {
+      "name": "Zygarde",
+      "type": "Dragon",
+      "HP": "151.2",
+      "Attack": "140.0",
+      "Defense": "169.4",
+      "Speed": "133.0",
+      "coins": "50880.0",
+      "skill": [
+        "Aura Break"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/718.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Mouth Watering Dip a la Cube",
+      "type": "Water",
+      "HP": 12,
+      "Attack": 12,
+      "Defense": 12,
+      "Speed": 12
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

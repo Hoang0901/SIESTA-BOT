@@ -1,0 +1,533 @@
+{
+  "name": "Kiseki Thoru",
+  "ID": "100059807103980",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Inactive Lava Zone – Lava Lake"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 2,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 9,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 11,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 13,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 15,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 16,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 19,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 22,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 23,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 26,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 27,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 31,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 35,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 39,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 43,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 45,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 47,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 52,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 57,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 58,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 63,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 64,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 65,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 66,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 69,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 73,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 77,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 81,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 86,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 88,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 93,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 100,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 103,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 105,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 113,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 117,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 120,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 123,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 124,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 125,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 134,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 135,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 138,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 140,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 143,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 145,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 148,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 149,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 152,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 154,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 155,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 157,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 161,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 162,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 165,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 170,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 173,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 180,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 182,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 183,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 187,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 190,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 57150,
+      "countdown": 5,
+      "countdownData": 1654352176152,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "5/24/2022, 9:23:35 PM"
+}

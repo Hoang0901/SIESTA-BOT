@@ -1,0 +1,256 @@
+{
+  "name": "Phan Thừa Ân",
+  "ID": "100070011480333",
+  "pet": [
+    {
+      "name": "Vullaby",
+      "type": "Dark",
+      "HP": 99.75,
+      "Attack": 78.375,
+      "Defense": 106.875,
+      "Speed": 85.5,
+      "skill": [
+        "Big Pecks",
+        "Overcoat",
+        "Weak Armor"
+      ],
+      "coins": 19000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/629.png"
+    },
+    {
+      "name": "Bounsweet",
+      "type": "Grass",
+      "HP": "21.0",
+      "Attack": "15.0",
+      "Defense": "19.0",
+      "Speed": "16.0",
+      "skill": [
+        "Leaf Guard",
+        "Oblivious",
+        "Sweet Veil"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/761.png"
+    },
+    {
+      "name": "Gligar",
+      "type": "Ground",
+      "HP": "65.0",
+      "Attack": "75.0",
+      "Defense": "105.0",
+      "Speed": "85.0",
+      "skill": [
+        "Hyper Cutter",
+        "Sand Veil",
+        "Immunity"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/207.png"
+    },
+    {
+      "name": "Entei",
+      "type": "Fire",
+      "HP": "46.0",
+      "Attack": "46.0",
+      "Defense": "34.0",
+      "Speed": "40.0",
+      "skill": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/244.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "coins": 18800,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": "147.07.35",
+      "Attack": "210.010.5",
+      "Defense": "126.06.3",
+      "Speed": "133.06.65",
+      "coins": "52800.02640",
+      "skill": [
+        "Air Lock"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Zygarde",
+      "type": "Dragon",
+      "HP": 108,
+      "Attack": 100,
+      "Defense": 121,
+      "Speed": 95,
+      "coins": 42400,
+      "skill": [
+        "Aura Break"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/718.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": "159.6",
+      "Attack": "159.6",
+      "Defense": "159.6",
+      "Speed": "159.6",
+      "coins": "54720.0",
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Hoopa",
+      "type": "Psychic",
+      "HP": "76.0",
+      "Attack": 104.5,
+      "Defense": 57,
+      "Speed": 66.5,
+      "coins": 30400,
+      "skill": [
+        "Magician"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/720.png"
+    },
+    {
+      "name": "Kyogre",
+      "type": "Water",
+      "HP": 105,
+      "Attack": 105,
+      "Defense": 94.5,
+      "Speed": 94.5,
+      "coins": 39900,
+      "skill": [
+        "Drizzle"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/382.png"
+    },
+    {
+      "name": "Groudon",
+      "type": "Ground",
+      "HP": "140.0",
+      "Attack": "210.0",
+      "Defense": "196.0",
+      "Speed": "126.0",
+      "coins": "57600.0",
+      "skill": [
+        "Drought"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/383.png"
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": 106,
+      "Attack": 110,
+      "Defense": 90,
+      "Speed": 130,
+      "coins": 43600,
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    },
+    {
+      "name": "Deoxys",
+      "type": "Psychic",
+      "HP": "70.03.5",
+      "Attack": "210.010.5",
+      "Defense": "70.03.5",
+      "Speed": "210.010.5",
+      "coins": "48000.02400",
+      "skill": [
+        "Pressure"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/386.png"
+    },
+    {
+      "name": "Yveltal",
+      "type": "Dark",
+      "HP": "176.4",
+      "Attack": "183.4",
+      "Defense": "133.0",
+      "Speed": "138.6",
+      "coins": "54120.0",
+      "skill": [
+        "Dark Aura"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/717.png"
+    },
+    {
+      "name": "Melmetal",
+      "type": "Steel",
+      "HP": 135,
+      "Attack": 143,
+      "Defense": 143,
+      "Speed": 34,
+      "coins": 45500,
+      "skill": [
+        "Iron Fist"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/809.png"
+    },
+    {
+      "name": "Zekrom",
+      "type": "Dragon",
+      "HP": 105,
+      "Attack": 157.5,
+      "Defense": 126,
+      "Speed": 94.5,
+      "coins": 48300,
+      "skill": [
+        "Teravolt"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png"
+    },
+    {
+      "name": "Caterpie",
+      "type": "Bug",
+      "HP": 45,
+      "Attack": 30,
+      "Defense": 35,
+      "Speed": 45,
+      "coins": 15500,
+      "skill": [
+        "Shield Dust",
+        "Run Away"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/010.png"
+    },
+    {
+      "name": "Weezing",
+      "type": "Poison",
+      "HP": "97.5",
+      "Attack": "135.0",
+      "Defense": "180.0",
+      "Speed": "90.0",
+      "skill": [
+        "Levitate"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/110.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 4,
+    "lose": 3,
+    "draw": 8
+  }
+}

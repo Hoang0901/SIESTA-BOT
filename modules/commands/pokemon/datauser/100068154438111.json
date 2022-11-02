@@ -1,0 +1,152 @@
+{
+  "name": "Trung Hiếu",
+  "ID": "100068154438111",
+  "pet": [
+    {
+      "name": "Giratina",
+      "type": "Ghost",
+      "HP": "199.5",
+      "Attack": 133,
+      "Defense": 159.6,
+      "Speed": 119.7,
+      "coins": 52440,
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/487.png"
+    },
+    {
+      "name": "Zekrom",
+      "type": "Dragon",
+      "HP": "140.07",
+      "Attack": "210.010.5",
+      "Defense": "168.08.4",
+      "Speed": "126.06.3",
+      "coins": "55200.02760",
+      "skill": [
+        "Teravolt"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png"
+    },
+    {
+      "name": "Reshiram",
+      "type": "Dragon",
+      "HP": "140.0",
+      "Attack": "168.0",
+      "Defense": "140.0",
+      "Speed": "126.0",
+      "coins": "49200.0",
+      "skill": [
+        "Turboblaze"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/643.png"
+    },
+    {
+      "name": "Luxray",
+      "type": "Electric",
+      "HP": "112.0",
+      "Attack": "168.0",
+      "Defense": "110.6",
+      "Speed": "98.0",
+      "coins": "41880.0",
+      "skill": [
+        "Rivalry",
+        "Intimidate",
+        "Guts"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/405.png"
+    },
+    {
+      "name": "Mamoswine",
+      "type": "Ice",
+      "HP": 110,
+      "Attack": 130,
+      "Defense": 80,
+      "Speed": 80,
+      "coins": 40000,
+      "skill": [
+        "Oblivious",
+        "Snow Cloak",
+        "Thick Fat"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/473.png"
+    },
+    {
+      "name": "Entei",
+      "type": "Fire",
+      "HP": 115,
+      "Attack": 115,
+      "Defense": 85,
+      "Speed": 100,
+      "coins": 41500,
+      "skill": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/244.png"
+    },
+    {
+      "name": "Suicune",
+      "type": "Water",
+      "HP": "10015.615.615.615.615.615.615.615.615.615.6",
+      "Attack": "7515.615.615.615.615.615.615.615.615.615.6",
+      "Defense": "11515.615.615.615.615.615.615.615.615.615.6",
+      "Speed": "8515.615.615.615.615.615.615.615.615.615.6",
+      "coins": 87500,
+      "skill": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/245.png"
+    },
+    {
+      "name": "Lugia",
+      "type": "Psychic",
+      "HP": 106,
+      "Attack": 90,
+      "Defense": 130,
+      "Speed": 110,
+      "coins": 43600,
+      "skill": [
+        "Pressure",
+        "Multiscale"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/249.png"
+    },
+    {
+      "name": "Zapdos",
+      "type": "Electric",
+      "HP": 90,
+      "Attack": 90,
+      "Defense": 85,
+      "Speed": 100,
+      "coins": 36500,
+      "skill": [
+        "Pressure",
+        "Static"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/145.png"
+    },
+    {
+      "name": "Moltres",
+      "type": "Fire",
+      "HP": 90,
+      "Attack": 100,
+      "Defense": 90,
+      "Speed": 90,
+      "coins": 37000,
+      "skill": [
+        "Pressure",
+        "Flame Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/146.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 1,
+    "draw": 3
+  }
+}

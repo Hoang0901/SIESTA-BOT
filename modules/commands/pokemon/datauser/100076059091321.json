@@ -1,0 +1,26 @@
+{
+  "name": "Ng Thươnq",
+  "ID": "100076059091321",
+  "pet": [
+    {
+      "name": "Beedrill",
+      "type": "Bug",
+      "HP": 68.25,
+      "Attack": 94.5,
+      "Defense": 42,
+      "Speed": 78.75,
+      "coins": 28350,
+      "skill": [
+        "Swarm",
+        "Sniper"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/015.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 0,
+    "draw": 0
+  }
+}

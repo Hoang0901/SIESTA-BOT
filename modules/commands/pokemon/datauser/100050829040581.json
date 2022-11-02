@@ -1,0 +1,212 @@
+{
+  "name": "Nguyễn Thịnh",
+  "ID": "100050829040581",
+  "pet": [
+    {
+      "name": "Pidove",
+      "type": "Normal",
+      "HP": "50.02.5",
+      "Attack": "55.02.75",
+      "Defense": "50.02.5",
+      "Speed": "43.02.15",
+      "skill": [
+        "Big Pecks",
+        "Super Luck",
+        "Rivalry"
+      ],
+      "coins": 10500,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/519.png"
+    },
+    {
+      "name": "Hoppip",
+      "type": "Grass",
+      "HP": "35.0",
+      "Attack": "35.0",
+      "Defense": "40.0",
+      "Speed": "50.0",
+      "skill": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/187.png"
+    },
+    {
+      "name": "Electabuzz",
+      "type": "Electric",
+      "HP": "26.0",
+      "Attack": "33.2",
+      "Defense": "22.8",
+      "Speed": "42.0",
+      "skill": [
+        "Static",
+        "Vital Spirit"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/125.png"
+    },
+    {
+      "name": "Chandelure",
+      "type": "Ghost",
+      "HP": "85.5",
+      "Attack": 78.3864,
+      "Defense": 128.2614,
+      "Speed": 114.0114,
+      "skill": [
+        "Flash Fire",
+        "Flame Body",
+        "Infiltrator"
+      ],
+      "coins": 21375,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/609.png"
+    },
+    {
+      "name": "Floatzel",
+      "type": "Water",
+      "HP": "42.515.6",
+      "Attack": "52.515.6",
+      "Defense": "27.515.6",
+      "Speed": "57.515.6",
+      "skill": [
+        "Swift Swim",
+        "Water Veil"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/419.png"
+    },
+    {
+      "name": "Sliggoo",
+      "type": "Dragon",
+      "HP": 128.915,
+      "Attack": 142.12,
+      "Defense": 100.415,
+      "Speed": 113.715,
+      "skill": [
+        "Sap Sipper",
+        "Hydration",
+        "Gooey"
+      ],
+      "coins": 21660,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/705.png"
+    },
+    {
+      "name": "Rhyhorn",
+      "type": "Ground",
+      "HP": "80.020.8NaN",
+      "Attack": "85.020.8NaN",
+      "Defense": "95.020.8NaN",
+      "Speed": "25.020.8NaN",
+      "skill": [
+        "Lightning Rod",
+        "Rock Head",
+        "Reckless"
+      ],
+      "coins": 15750,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/111.png"
+    },
+    {
+      "name": "Drowzee",
+      "type": "Psychic",
+      "HP": "24.0",
+      "Attack": "19.2",
+      "Defense": "18.0",
+      "Speed": "16.8",
+      "skill": [
+        "Insomnia",
+        "Forewarn",
+        "Inner Focus"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/096.png"
+    },
+    {
+      "name": "Finneon",
+      "type": "Water",
+      "HP": "24.5",
+      "Attack": "24.5",
+      "Defense": "28.0",
+      "Speed": "33.0",
+      "skill": [
+        "Swift Swim",
+        "Storm Drain",
+        "Water Veil"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/456.png"
+    },
+    {
+      "name": "Cofagrigus",
+      "type": "Ghost",
+      "HP": "87.0",
+      "Attack": "75.0",
+      "Defense": "217.5",
+      "Speed": "45.0",
+      "skill": [
+        "Mummy"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/563.png"
+    },
+    {
+      "name": "Shedinja",
+      "type": "Bug",
+      "HP": "1.5",
+      "Attack": "135.0",
+      "Defense": "67.5",
+      "Speed": "60.0",
+      "skill": [
+        "Wonder Guard"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/292.png"
+    },
+    {
+      "name": "Melmetal",
+      "type": "Steel",
+      "HP": "135.0",
+      "Attack": "143.0",
+      "Defense": "143.0",
+      "Speed": "34.0",
+      "skill": [
+        "Iron Fist"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/809.png"
+    },
+    {
+      "name": "Clauncher",
+      "type": "Water",
+      "HP": "25.0",
+      "Attack": "26.5",
+      "Defense": "31.0",
+      "Speed": "22.0",
+      "skill": [
+        "Mega Launcher"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/692.png"
+    },
+    {
+      "name": "Joltik",
+      "type": "Bug",
+      "HP": "20.0",
+      "Attack": "18.8",
+      "Defense": "20.0",
+      "Speed": "26.0",
+      "skill": [
+        "Compound Eyes",
+        "Unnerve",
+        "Swarm"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/595.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 3,
+    "lose": 5,
+    "draw": 2
+  }
+}

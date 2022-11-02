@@ -1,0 +1,69 @@
+{
+  "name": "Nguyễn Nam",
+  "ID": "100057100954430",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "World Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 3,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 4,
+      "name": "Holefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/1dTrbf4.png"
+    },
+    {
+      "ID": 5,
+      "name": "Garryfish",
+      "category": "Common",
+      "size": 37,
+      "sell": 250,
+      "image": "https://i.imgur.com/CNzSzIY.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 59830,
+      "countdown": 5,
+      "countdownData": 1653909328181,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "5/30/2022, 6:08:20 PM"
+}

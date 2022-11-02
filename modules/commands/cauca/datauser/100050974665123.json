@@ -1,0 +1,518 @@
+{
+  "name": "Đv Kiện Baka",
+  "ID": "100050974665123",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crash Zone"
+  },
+  "fishBag": [
+    {
+      "ID": 10,
+      "name": "Noot Fish",
+      "category": "Uncommon",
+      "size": 74,
+      "sell": 740,
+      "image": "https://i.imgur.com/jR73WON.png"
+    },
+    {
+      "ID": 11,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 17,
+      "name": "Arctic Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/fJwcFHQ.png"
+    },
+    {
+      "ID": 19,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 20,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 1100,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 21,
+      "name": "Pengwing",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 220,
+      "image": "https://i.imgur.com/dH8XB25.png"
+    },
+    {
+      "ID": 22,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    },
+    {
+      "ID": 23,
+      "name": "Brinewing",
+      "category": "Uncommon",
+      "size": 68,
+      "sell": 670,
+      "image": "https://i.imgur.com/jsA3grS.png"
+    },
+    {
+      "ID": 27,
+      "name": "Sea Monkey",
+      "category": "Rare",
+      "size": 120,
+      "sell": 1100,
+      "image": "https://i.imgur.com/QsbkHfj.png"
+    },
+    {
+      "ID": 32,
+      "name": "Sea Monkey",
+      "category": "Rare",
+      "size": 120,
+      "sell": 1100,
+      "image": "https://i.imgur.com/QsbkHfj.png"
+    },
+    {
+      "ID": 34,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 36,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 39,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 40,
+      "name": "Feather Fish",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 410,
+      "image": "https://i.imgur.com/hvfqv6n.png"
+    },
+    {
+      "ID": 42,
+      "name": "Brute Shark",
+      "category": "Rare",
+      "size": 560,
+      "sell": 3100,
+      "image": "https://i.imgur.com/uhCtIkO.png"
+    },
+    {
+      "ID": 43,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 44,
+      "name": "Brute Shark",
+      "category": "Rare",
+      "size": 560,
+      "sell": 3100,
+      "image": "https://i.imgur.com/uhCtIkO.png"
+    },
+    {
+      "ID": 45,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 47,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 49,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 50,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 54,
+      "name": "Rock Puncher",
+      "category": "Rare",
+      "size": 2,
+      "sell": 1890,
+      "image": "https://i.imgur.com/5f8kjk5.png"
+    },
+    {
+      "ID": 56,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 58,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 61,
+      "name": "Red Feather Fish",
+      "category": "Uncommon",
+      "size": 35,
+      "sell": 440,
+      "image": "https://i.imgur.com/6eugLip.png"
+    },
+    {
+      "ID": 63,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 64,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 66,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 67,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 70,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 71,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 72,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 74,
+      "name": "Shuttlebug",
+      "category": "Uncommon",
+      "size": 27,
+      "sell": 410,
+      "image": "https://i.imgur.com/Mly7Elf.jpg"
+    },
+    {
+      "ID": 76,
+      "name": "Stalker",
+      "category": "Uncommon",
+      "size": 1800,
+      "sell": 900,
+      "image": "https://i.imgur.com/Gc8qMDh.png"
+    },
+    {
+      "ID": 79,
+      "name": "Hoverfish",
+      "category": "Uncommon",
+      "size": 38,
+      "sell": 420,
+      "image": "https://i.imgur.com/wQZRj9t.png"
+    },
+    {
+      "ID": 80,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 81,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 82,
+      "name": "Stalker",
+      "category": "Uncommon",
+      "size": 1800,
+      "sell": 900,
+      "image": "https://i.imgur.com/Gc8qMDh.png"
+    },
+    {
+      "ID": 84,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 85,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 87,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 89,
+      "name": "Stalker",
+      "category": "Uncommon",
+      "size": 1800,
+      "sell": 900,
+      "image": "https://i.imgur.com/Gc8qMDh.png"
+    },
+    {
+      "ID": 90,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 91,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 96,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 97,
+      "name": "Holefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/1dTrbf4.png"
+    },
+    {
+      "ID": 99,
+      "name": "Skyray",
+      "category": "Common",
+      "size": 48,
+      "sell": 300,
+      "image": "https://i.imgur.com/uxjOIK9.jpg"
+    },
+    {
+      "ID": 100,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 101,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 102,
+      "name": "Holefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/1dTrbf4.png"
+    },
+    {
+      "ID": 103,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 104,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 105,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 106,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 107,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 108,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 109,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 110,
+      "name": "Skyray",
+      "category": "Common",
+      "size": 48,
+      "sell": 300,
+      "image": "https://i.imgur.com/uxjOIK9.jpg"
+    },
+    {
+      "ID": 111,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 112,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "Titanium Harpoon",
+      "price": 4000,
+      "durability": 50,
+      "countdown": 150,
+      "countdownData": 1654012532395,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 1650,
+      "countdown": 15,
+      "countdownData": 1654106423501,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 59030,
+      "countdown": 5,
+      "countdownData": 1654336676289,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "5/31/2022, 3:55:33 PM"
+}

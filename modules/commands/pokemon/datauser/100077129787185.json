@@ -1,0 +1,98 @@
+{
+  "name": "Tphuong Thiểu Năng",
+  "ID": "100077129787185",
+  "pet": [
+    {
+      "name": "Sunkern",
+      "type": "Grass",
+      "HP": "45.02.25",
+      "Attack": "45.02.25",
+      "Defense": "45.02.25",
+      "Speed": "45.02.25",
+      "skill": [
+        "Chlorophyll",
+        "Solar Power",
+        "Early Bird"
+      ],
+      "coins": 21000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/191.png"
+    },
+    {
+      "name": "Talonflame",
+      "type": "Fire",
+      "HP": "39.0",
+      "Attack": "40.5",
+      "Defense": "35.5",
+      "Speed": "63.0",
+      "skill": [
+        "Flame Body",
+        "Gale Wings"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/663.png"
+    },
+    {
+      "name": "Zigzagoon",
+      "type": "Normal",
+      "HP": "38.0",
+      "Attack": "30.0",
+      "Defense": "41.0",
+      "Speed": "60.0",
+      "skill": [
+        "Pickup",
+        "Gluttony",
+        "Quick Feet"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/263.png"
+    },
+    {
+      "name": "Barboach",
+      "type": "Water",
+      "HP": "25.0",
+      "Attack": "24.0",
+      "Defense": "21.5",
+      "Speed": "30.0",
+      "skill": [
+        "Oblivious",
+        "Anticipation",
+        "Hydration"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/339.png"
+    },
+    {
+      "name": "Pansage",
+      "type": "Grass",
+      "HP": "20.0",
+      "Attack": "21.2",
+      "Defense": "19.2",
+      "Speed": "25.6",
+      "skill": [
+        "Gluttony",
+        "Overgrow"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/511.png"
+    },
+    {
+      "name": "Blacephalon",
+      "type": "Fire",
+      "HP": "53.0",
+      "Attack": "127.0",
+      "Defense": "53.0",
+      "Speed": "107.0",
+      "skill": [
+        "Beast Boost"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/806.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 0,
+    "draw": 1
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Nguyễn An",
+  "ID": "100065056575793",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Lilypad Islands"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 2,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 3,
+      "name": "Brute Shark",
+      "category": "Rare",
+      "size": 560,
+      "sell": 3100,
+      "image": "https://i.imgur.com/uhCtIkO.png"
+    },
+    {
+      "ID": 4,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 5,
+      "name": "Sea Monkey",
+      "category": "Rare",
+      "size": 120,
+      "sell": 1100,
+      "image": "https://i.imgur.com/QsbkHfj.png"
+    },
+    {
+      "ID": 6,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 7,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 8,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 9,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 10,
+      "name": "Feather Fish",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 410,
+      "image": "https://i.imgur.com/hvfqv6n.png"
+    },
+    {
+      "ID": 11,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 12,
+      "name": "Arrow Ray",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/NJKErJi.png"
+    },
+    {
+      "ID": 13,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 14,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 15,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 16,
+      "name": "Lily Paddler",
+      "category": "Rare",
+      "size": 100,
+      "sell": 970,
+      "image": "https://i.imgur.com/I1ZUZll.png"
+    },
+    {
+      "ID": 17,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 3000,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 18,
+      "name": "Squidshark",
+      "category": "Rare",
+      "size": 11,
+      "sell": 6280,
+      "image": "https://i.imgur.com/OTyFBsE.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 59770,
+      "countdown": 5,
+      "countdownData": 1654964172429,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "6/11/2022, 4:38:44 PM"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Hoàng Long",
+    "ID": "100040529449106",
+    "shield": 3,
+    "coins": 5200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 30,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 14,
+    "timeRegister": "5/9/2022, 7:42:12 PM"
+}

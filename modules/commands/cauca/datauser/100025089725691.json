@@ -1,0 +1,20 @@
+{
+    "name": "Hà Thanh Chuyền.",
+    "ID": "100025089725691",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "6/8/2022, 6:50:42 PM"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Bánh Mì Chấm Sữa",
+    "ID": "100074322889186",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "5/29/2022, 8:10:16 PM"
+}

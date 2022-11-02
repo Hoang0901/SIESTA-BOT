@@ -1,0 +1,93 @@
+{
+  "name": "Đức Hà Tĩnh",
+  "ID": "100074156839173",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Sparse Arctic  "
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Peeper",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/9tBkTdD.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Brinewing",
+      "category": "Uncommon",
+      "size": 68,
+      "sell": 670,
+      "image": "https://i.imgur.com/jsA3grS.png"
+    },
+    {
+      "ID": 4,
+      "name": "Brinewing",
+      "category": "Uncommon",
+      "size": 68,
+      "sell": 670,
+      "image": "https://i.imgur.com/jsA3grS.png"
+    },
+    {
+      "ID": 5,
+      "name": "Brinewing",
+      "category": "Uncommon",
+      "size": 68,
+      "sell": 670,
+      "image": "https://i.imgur.com/jsA3grS.png"
+    },
+    {
+      "ID": 6,
+      "name": "Titan Holefish",
+      "category": "Epic",
+      "size": 450,
+      "sell": 8690,
+      "image": "https://i.imgur.com/2uJIRkL.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 59930,
+      "countdown": 5,
+      "countdownData": 1648601945677,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 2000,
+      "countdown": 15,
+      "countdownData": null,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    },
+    {
+      "name": "Titanium Harpoon",
+      "price": 4000,
+      "durability": 100,
+      "countdown": 150,
+      "countdownData": null,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    }
+  ],
+  "timeRegister": "3/22/2022, 11:50:02 PM"
+}

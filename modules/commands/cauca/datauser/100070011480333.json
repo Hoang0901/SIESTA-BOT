@@ -1,0 +1,1461 @@
+{
+  "name": "Phan Thừa Ân",
+  "ID": "100070011480333",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crater Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 3,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 7,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 12,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 13,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 14,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 15,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 20,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 22,
+      "name": "Reginald",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/NCAzEvi.jpg"
+    },
+    {
+      "ID": 24,
+      "name": "Peeper",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/9tBkTdD.jpg"
+    },
+    {
+      "ID": 25,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 27,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 28,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 29,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 31,
+      "name": "Reginald",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/NCAzEvi.jpg"
+    },
+    {
+      "ID": 32,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 33,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 36,
+      "name": "Skyray",
+      "category": "Common",
+      "size": 48,
+      "sell": 300,
+      "image": "https://i.imgur.com/uxjOIK9.jpg"
+    },
+    {
+      "ID": 37,
+      "name": "Holefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/1dTrbf4.png"
+    },
+    {
+      "ID": 40,
+      "name": "Skyray",
+      "category": "Common",
+      "size": 48,
+      "sell": 300,
+      "image": "https://i.imgur.com/uxjOIK9.jpg"
+    },
+    {
+      "ID": 42,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 43,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 45,
+      "name": "Peeper",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/9tBkTdD.jpg"
+    },
+    {
+      "ID": 48,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 49,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 50,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 52,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 60,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 61,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 63,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 67,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 69,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 70,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 80,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 81,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 83,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 84,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 86,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 89,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 91,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 93,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 95,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 97,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 98,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 99,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 101,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 102,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 104,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 105,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 106,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 108,
+      "name": "Triops",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/5oDIu17.png"
+    },
+    {
+      "ID": 109,
+      "name": "Shadow Leviathan",
+      "category": "Legendary",
+      "size": 6000,
+      "sell": 1050700,
+      "image": "https://i.imgur.com/dinzzWr.png"
+    },
+    {
+      "ID": 110,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 113,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 114,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 115,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 116,
+      "name": "Rockgrub",
+      "category": "Epic",
+      "size": 24,
+      "sell": 1180,
+      "image": "https://i.imgur.com/xbdLdm4.jpg"
+    },
+    {
+      "ID": 120,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 124,
+      "name": "Triops",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/5oDIu17.png"
+    },
+    {
+      "ID": 125,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 129,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 130,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 131,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 132,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 133,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 135,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 136,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 139,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 141,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 142,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 143,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 145,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 146,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 147,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 149,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 154,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 155,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 156,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 158,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 163,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 165,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 167,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 169,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 171,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 173,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 176,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 178,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 182,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 183,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 184,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 185,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 186,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 188,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 189,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 190,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 192,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 194,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 195,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 199,
+      "name": "Skyray",
+      "category": "Common",
+      "size": 48,
+      "sell": 300,
+      "image": "https://i.imgur.com/uxjOIK9.jpg"
+    },
+    {
+      "ID": 203,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 206,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 207,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 208,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 209,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 210,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 211,
+      "name": "Holefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/1dTrbf4.png"
+    },
+    {
+      "ID": 212,
+      "name": "Hoverfish",
+      "category": "Uncommon",
+      "size": 38,
+      "sell": 420,
+      "image": "https://i.imgur.com/wQZRj9t.png"
+    },
+    {
+      "ID": 213,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 214,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 215,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 216,
+      "name": "Sea Dragon Leviathan",
+      "category": "Legendary",
+      "size": 11000,
+      "sell": 1580000,
+      "image": "https://i.imgur.com/iALri8R.png"
+    },
+    {
+      "ID": 217,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 218,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 219,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 220,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 221,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 222,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 223,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 224,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 225,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 226,
+      "name": "Warper",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/XRsxfIV.png"
+    },
+    {
+      "ID": 227,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 228,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 229,
+      "name": "Lava Larva",
+      "category": "Uncommon",
+      "size": 24,
+      "sell": 410,
+      "image": "https://i.imgur.com/DEhFwIb.png"
+    },
+    {
+      "ID": 230,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 231,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 232,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 233,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 234,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 235,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 236,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 237,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 238,
+      "name": "Magmarang",
+      "category": "Common",
+      "size": 33,
+      "sell": 210,
+      "image": "https://i.imgur.com/0bOcIwM.png"
+    },
+    {
+      "ID": 239,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 240,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 241,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 242,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 243,
+      "name": "Red Eyeye",
+      "category": "Common",
+      "size": 36,
+      "sell": 230,
+      "image": "https://i.imgur.com/5CynMOd.png"
+    },
+    {
+      "ID": 244,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 245,
+      "name": "Crimson Ray",
+      "category": "Uncommon",
+      "size": 300,
+      "sell": 100,
+      "image": "https://i.imgur.com/ii63Q5r.png"
+    },
+    {
+      "ID": 246,
+      "name": "Lava Lizard",
+      "category": "Rare",
+      "size": 870,
+      "sell": 3850,
+      "image": "https://i.imgur.com/AblidWp.png"
+    },
+    {
+      "ID": 247,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 248,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 249,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 250,
+      "name": "Stalker",
+      "category": "Uncommon",
+      "size": 1800,
+      "sell": 900,
+      "image": "https://i.imgur.com/Gc8qMDh.png"
+    },
+    {
+      "ID": 251,
+      "name": "Shuttlebug",
+      "category": "Uncommon",
+      "size": 27,
+      "sell": 410,
+      "image": "https://i.imgur.com/Mly7Elf.jpg"
+    },
+    {
+      "ID": 252,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 253,
+      "name": "Reaper Leviathan",
+      "category": "Legendary",
+      "size": 5500,
+      "sell": 679600,
+      "image": "https://i.imgur.com/14sGSJ2.jpg"
+    },
+    {
+      "ID": 254,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 255,
+      "name": "Eyeye",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/jdcU4nC.png"
+    },
+    {
+      "ID": 256,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 257,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 258,
+      "name": "Holefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/1dTrbf4.png"
+    },
+    {
+      "ID": 259,
+      "name": "Hoverfish",
+      "category": "Uncommon",
+      "size": 38,
+      "sell": 420,
+      "image": "https://i.imgur.com/wQZRj9t.png"
+    },
+    {
+      "ID": 260,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 261,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 262,
+      "name": "Sand Shark",
+      "category": "Rare",
+      "size": 500,
+      "sell": 2250,
+      "image": "https://i.imgur.com/Ejo0kju.png"
+    },
+    {
+      "ID": 263,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 35345800,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 264,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 265,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 266,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 267,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 268,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 269,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 270,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 35345800,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 271,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 272,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 273,
+      "name": "Hoopfish",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/1I7IeiH.png"
+    },
+    {
+      "ID": 274,
+      "name": "Arctic Peeper",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Qsx7khe.png"
+    },
+    {
+      "ID": 275,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 276,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 277,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 278,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 279,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 35345800,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 280,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 281,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 282,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 283,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 52250,
+      "countdown": 5,
+      "countdownData": 1654954592416,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 2000,
+      "countdown": 15,
+      "countdownData": null,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    },
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 20,
+      "countdown": 300,
+      "countdownData": null,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    }
+  ],
+  "timeRegister": "6/3/2022, 7:11:44 PM"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Phan Huy",
+  "ID": "100041184706360",
+  "pet": [
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "HP": "54.6",
+      "Attack": "72.8",
+      "Defense": "60.2",
+      "Speed": "91.0",
+      "coins": "23880.0",
+      "skill": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/004.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

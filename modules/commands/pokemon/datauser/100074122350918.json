@@ -1,0 +1,64 @@
+{
+  "name": "Quốc Huy",
+  "ID": "100074122350918",
+  "pet": [
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": 105,
+      "Attack": 150,
+      "Defense": 90,
+      "Speed": 95,
+      "coins": 44000,
+      "skill": [
+        "Air Lock"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Necrozma",
+      "type": "Psychic",
+      "HP": 97,
+      "Attack": 107,
+      "Defense": 101,
+      "Speed": 79,
+      "coins": 38400,
+      "skill": [
+        "Prism Armor"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/800.png"
+    },
+    {
+      "name": "Kyurem",
+      "type": "Dragon",
+      "HP": 125,
+      "Attack": 130,
+      "Defense": 90,
+      "Speed": 95,
+      "coins": 44000,
+      "skill": [
+        "Pressure"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/646.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": 120,
+      "Attack": 120,
+      "Defense": 120,
+      "Speed": 120,
+      "coins": 48000,
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

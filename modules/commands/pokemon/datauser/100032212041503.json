@@ -1,0 +1,140 @@
+{
+  "name": "Nguyễn Lý Hải",
+  "ID": "100032212041503",
+  "pet": [
+    {
+      "name": "Caterpie",
+      "type": "Bug",
+      "HP": 42.75,
+      "Attack": 28.5,
+      "Defense": 33.25,
+      "Speed": 42.75,
+      "coins": 14725,
+      "skill": [
+        "Shield Dust",
+        "Run Away"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/010.png"
+    },
+    {
+      "name": "Kingler",
+      "type": "Water",
+      "HP": "77.03.85",
+      "Attack": "182.09.1",
+      "Defense": "161.08.05",
+      "Speed": "105.05.25",
+      "coins": "45000.02250",
+      "skill": [
+        "Hyper Cutter",
+        "Shell Armor",
+        "Sheer Force"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/099.png"
+    },
+    {
+      "name": "Kangaskhan",
+      "type": "Normal",
+      "HP": 105,
+      "Attack": 95,
+      "Defense": 80,
+      "Speed": 90,
+      "coins": 37000,
+      "skill": [
+        "Early Bird",
+        "Scrappy",
+        "Inner Focus"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/115.png"
+    },
+    {
+      "name": "Electrode",
+      "type": "Electric",
+      "HP": 60,
+      "Attack": 50,
+      "Defense": 70,
+      "Speed": 150,
+      "coins": 33000,
+      "skill": [
+        "Soundproof",
+        "Static",
+        "Aftermath"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/101.png"
+    },
+    {
+      "name": "Muk",
+      "type": "Poison",
+      "HP": "147.0",
+      "Attack": "147.0",
+      "Defense": "105.0",
+      "Speed": "70.0",
+      "coins": "40200.0",
+      "skill": [
+        "Stench",
+        "Sticky Hold",
+        "Poison Touch"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/089.png"
+    },
+    {
+      "name": "Gardevoir",
+      "type": "Psychic",
+      "HP": "102.0",
+      "Attack": "97.5",
+      "Defense": "97.5",
+      "Speed": "120.0",
+      "skill": [
+        "Synchronize",
+        "Trace",
+        "Telepathy"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/282.png"
+    },
+    {
+      "name": "Reshiram",
+      "type": "Dragon",
+      "HP": "186.2",
+      "Attack": "223.4",
+      "Defense": "186.2",
+      "Speed": "167.6",
+      "coins": "56088.0",
+      "skill": [
+        "Turboblaze"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/643.png"
+    },
+    {
+      "name": "Zekrom",
+      "type": "Dragon",
+      "HP": "140.0",
+      "Attack": "210.0",
+      "Defense": "168.0",
+      "Speed": "126.0",
+      "coins": "55200.0",
+      "skill": [
+        "Teravolt"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png"
+    },
+    {
+      "name": "Melmetal",
+      "type": "Steel",
+      "HP": "189.0",
+      "Attack": "200.2",
+      "Defense": "200.2",
+      "Speed": "47.6",
+      "coins": "54600.0",
+      "skill": [
+        "Iron Fist"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/809.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 2,
+    "draw": 9
+  }
+}

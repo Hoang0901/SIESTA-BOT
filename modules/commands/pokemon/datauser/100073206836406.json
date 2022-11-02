@@ -1,0 +1,25 @@
+{
+  "name": "Ngọc Kim",
+  "ID": "100073206836406",
+  "pet": [
+    {
+      "name": "Keldeo",
+      "type": "Water",
+      "HP": "45.5",
+      "Attack": "36.0",
+      "Defense": "45.0",
+      "Speed": "54.0",
+      "skill": [
+        "Justified"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/647.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

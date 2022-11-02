@@ -1,0 +1,96 @@
+{
+    "fishingrod": {
+        "rodType": 4,
+        "enchantRod": {},
+        "rodName": "Golden fishing rod",
+        "cooldownTime": 30,
+        "durabilityDefault": 350,
+        "durability": 200,
+        "moneyFix": 122,
+        "rateBroken": [
+            70,
+            150
+        ]
+    },
+    "inventory": [
+        {
+            "name": "Bitterling",
+            "rarity": "Common",
+            "price": 90,
+            "size": [
+                10,
+                12
+            ],
+            "time": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1652188376,
+    "point": 90,
+    "totalMoney": 0,
+    "totalCatch": 1
+}

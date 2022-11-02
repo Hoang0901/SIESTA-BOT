@@ -1,0 +1,41 @@
+{
+  "name": "Thiênn Buii",
+  "ID": "100056675002578",
+  "pet": [
+    {
+      "name": "Spoink",
+      "type": "Psychic",
+      "HP": "90.04.5NaNNaNNaN1216",
+      "Attack": "37.51.875NaNNaNNaN1216",
+      "Defense": "52.52.625NaNNaNNaN1216",
+      "Speed": "90.04.5NaNNaNNaN1216",
+      "skill": [
+        "Thick Fat",
+        "Own Tempo",
+        "Gluttony"
+      ],
+      "coins": 29310.125,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/325.png"
+    },
+    {
+      "name": "Meganium",
+      "type": "Grass",
+      "HP": "32.0",
+      "Attack": "32.8",
+      "Defense": "40.0",
+      "Speed": "32.0",
+      "skill": [
+        "Overgrow",
+        "Leaf Guard"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/154.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 4,
+    "lose": 0,
+    "draw": 0
+  }
+}

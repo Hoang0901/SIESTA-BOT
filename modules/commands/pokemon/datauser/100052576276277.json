@@ -1,0 +1,113 @@
+{
+  "name": "Nguyễn Trung",
+  "ID": "100052576276277",
+  "pet": [
+    {
+      "name": "Shaymin",
+      "type": "Grass",
+      "HP": "150.0",
+      "Attack": "150.0",
+      "Defense": "150.0",
+      "Speed": "150.0",
+      "skill": [
+        "Natural Cure"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/492.png"
+    },
+    {
+      "name": "Charizard",
+      "type": "Fire",
+      "HP": "109.226.0",
+      "Attack": "117.626.0",
+      "Defense": "109.226.0",
+      "Speed": "140.026.0",
+      "coins": "40800.05000",
+      "skill": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": "63.0",
+      "Attack": "68.6",
+      "Defense": "68.6",
+      "Speed": "63.0",
+      "coins": "22560.0",
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Melmetal",
+      "type": "Steel",
+      "HP": 135,
+      "Attack": 143,
+      "Defense": 143,
+      "Speed": 34,
+      "coins": 45500,
+      "skill": [
+        "Iron Fist"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/809.png"
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": "148.4",
+      "Attack": "154.0",
+      "Defense": "126.0",
+      "Speed": "182.0",
+      "coins": "52320.0",
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Stone Soup a la Cube",
+      "type": "Ground",
+      "HP": 16,
+      "Attack": 16,
+      "Defense": 16,
+      "Speed": 16
+    },
+    {
+      "name": "Mouth Watering Dip a la Cube",
+      "type": "Grass",
+      "HP": 12,
+      "Attack": 12,
+      "Defense": 12,
+      "Speed": 12
+    },
+    {
+      "name": "Mouth Watering Dip a la Cube",
+      "type": "Electric",
+      "HP": 12,
+      "Attack": 12,
+      "Defense": 12,
+      "Speed": 12
+    },
+    {
+      "name": "Veggie Smoothie a la Cube",
+      "type": "Normal",
+      "HP": 16,
+      "Attack": 16,
+      "Defense": 16,
+      "Speed": 16
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

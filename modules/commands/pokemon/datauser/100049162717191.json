@@ -1,0 +1,84 @@
+{
+  "name": "Dương Linh Uyên",
+  "ID": "100049162717191",
+  "pet": [
+    {
+      "name": "Oranguru",
+      "type": "Normal",
+      "HP": "135.0",
+      "Attack": "90.0",
+      "Defense": "120.0",
+      "Speed": "90.0",
+      "skill": [
+        "Inner Focus",
+        "Telepathy",
+        "Symbiosis"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/765.png"
+    },
+    {
+      "name": "Bronzor",
+      "type": "Steel",
+      "HP": "57.0",
+      "Attack": "24.0",
+      "Defense": "86.0",
+      "Speed": "23.0",
+      "skill": [
+        "Levitate",
+        "Heatproof",
+        "Heavy Metal"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/436.png"
+    },
+    {
+      "name": "Palossand",
+      "type": "Ghost",
+      "HP": "34.0",
+      "Attack": "30.0",
+      "Defense": "44.0",
+      "Speed": "14.0",
+      "skill": [
+        "Water Compaction",
+        "Sand Veil"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/770.png"
+    },
+    {
+      "name": "Nuzleaf",
+      "type": "Grass",
+      "HP": "35.0",
+      "Attack": "35.0",
+      "Defense": "20.0",
+      "Speed": "30.0",
+      "skill": [
+        "Chlorophyll",
+        "Early Bird",
+        "Pickpocket"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/274.png"
+    },
+    {
+      "name": "Furfrou",
+      "type": "Normal",
+      "HP": "112.5",
+      "Attack": "120.0",
+      "Defense": "90.0",
+      "Speed": "153.0",
+      "skill": [
+        "Fur Coat"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/676.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 5
+  }
+}

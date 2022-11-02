@@ -1,0 +1,30 @@
+{
+  "name": "Vương Trung Thịnh",
+  "ID": "100043855936235",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crater Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 162,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 35345800,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 56810,
+      "countdown": 5,
+      "countdownData": 1654332106548,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "5/24/2022, 10:39:43 PM"
+}

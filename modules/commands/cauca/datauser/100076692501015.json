@@ -1,0 +1,19 @@
+{
+  "ID": "100076692501015",
+  "mainROD": null,
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "World Edge – The Void"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [],
+  "timeRegister": "6/6/2022, 8:48:28 PM"
+}

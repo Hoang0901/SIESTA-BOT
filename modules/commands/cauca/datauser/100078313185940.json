@@ -1,0 +1,397 @@
+{
+  "name": "Tố Gia Kỳ",
+  "ID": "100078313185940",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Safe Shallows"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 3,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 4,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 5,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 11,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 6,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 11,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 7,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 8,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 11,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 9,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 10,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 11,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 12,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 13,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 14,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 15,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 16,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 17,
+      "name": "Reefback Leviathan",
+      "category": "Epic",
+      "size": 6400,
+      "sell": 30240,
+      "image": "https://i.imgur.com/Knd4axq.png"
+    },
+    {
+      "ID": 18,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 19,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 11,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 20,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 21,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 22,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 23,
+      "name": "Ampeel",
+      "category": "Rare",
+      "size": 11,
+      "sell": 4050,
+      "image": "https://i.imgur.com/hHyRaNE.jpg"
+    },
+    {
+      "ID": 24,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 25,
+      "name": "Boneshark",
+      "category": "Rare",
+      "size": 8400,
+      "sell": 3770,
+      "image": "https://i.imgur.com/WcZE7hq.png"
+    },
+    {
+      "ID": 26,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 27,
+      "name": "Spadefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Xt3mcnE.jpg"
+    },
+    {
+      "ID": 28,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 29,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 30,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 31,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 32,
+      "name": "Rabbit Ray",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/jjzQDkj.jpg"
+    },
+    {
+      "ID": 33,
+      "name": "Garryfish",
+      "category": "Common",
+      "size": 37,
+      "sell": 250,
+      "image": "https://i.imgur.com/CNzSzIY.png"
+    },
+    {
+      "ID": 34,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 35,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 36,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 37,
+      "name": "Holefish",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/1dTrbf4.png"
+    },
+    {
+      "ID": 38,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 39,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 40,
+      "name": "Skyray",
+      "category": "Common",
+      "size": 48,
+      "sell": 300,
+      "image": "https://i.imgur.com/uxjOIK9.jpg"
+    },
+    {
+      "ID": 41,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 42,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 43,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    },
+    {
+      "ID": 44,
+      "name": "Peeper",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/9tBkTdD.jpg"
+    },
+    {
+      "ID": 45,
+      "name": "Floater",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/sbe22fQ.jpg"
+    },
+    {
+      "ID": 46,
+      "name": "Gasopod",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d5RYnzo.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 59330,
+      "countdown": 5,
+      "countdownData": 1654352779702,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "5/30/2022, 10:55:49 AM"
+}

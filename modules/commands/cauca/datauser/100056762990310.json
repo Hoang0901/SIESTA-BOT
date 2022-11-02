@@ -1,0 +1,62 @@
+{
+  "name": "Kingu Karasu",
+  "ID": "100056762990310",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Crystal Caves"
+  },
+  "fishBag": [
+    {
+      "ID": 65,
+      "name": "Grand Demon Leviathan",
+      "category": "Mythical",
+      "size": 37300,
+      "sell": 35345800,
+      "image": "https://i.imgur.com/WuWQOYy.jpg"
+    },
+    {
+      "ID": 132,
+      "name": "Shadow Leviathan",
+      "category": "Legendary",
+      "size": 6000,
+      "sell": 1050700,
+      "image": "https://i.imgur.com/dinzzWr.png"
+    },
+    {
+      "ID": 133,
+      "name": "Shadow Leviathan",
+      "category": "Legendary",
+      "size": 6000,
+      "sell": 1050700,
+      "image": "https://i.imgur.com/dinzzWr.png"
+    },
+    {
+      "ID": 141,
+      "name": "Shadow Leviathan",
+      "category": "Legendary",
+      "size": 6000,
+      "sell": 1050700,
+      "image": "https://i.imgur.com/dinzzWr.png"
+    },
+    {
+      "ID": 142,
+      "name": "Triops",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/5oDIu17.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 54340,
+      "countdown": 5,
+      "countdownData": 1654410632372,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "5/24/2022, 10:00:23 PM"
+}

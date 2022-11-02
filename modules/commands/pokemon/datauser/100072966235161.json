@@ -1,0 +1,158 @@
+{
+  "name": "Đây Khang",
+  "ID": "100072966235161",
+  "pet": [
+    {
+      "name": "Zeraora",
+      "type": "Electric",
+      "HP": "123.2",
+      "Attack": "156.8",
+      "Defense": "105.0",
+      "Speed": "200.2",
+      "coins": "50160.0",
+      "skill": [
+        "Volt Absorb"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/807.png"
+    },
+    {
+      "name": "Melmetal",
+      "type": "Steel",
+      "HP": "189.0",
+      "Attack": "200.2",
+      "Defense": "200.2",
+      "Speed": "47.6",
+      "coins": "54600.0",
+      "skill": [
+        "Iron Fist"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/809.png"
+    },
+    {
+      "name": "Kartana",
+      "type": "Grass",
+      "HP": 59,
+      "Attack": 181,
+      "Defense": 131,
+      "Speed": 109,
+      "coins": 48000,
+      "skill": [
+        "Beast Boost"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/798.png"
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": 105,
+      "Attack": 150,
+      "Defense": 90,
+      "Speed": 95,
+      "coins": 44000,
+      "skill": [
+        "Air Lock"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Marshadow",
+      "type": "Fighting",
+      "HP": 90,
+      "Attack": 125,
+      "Defense": 80,
+      "Speed": 125,
+      "coins": 42000,
+      "skill": [
+        "Technician"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/802.png"
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": "148.4",
+      "Attack": "154.0",
+      "Defense": "126.0",
+      "Speed": "182.0",
+      "coins": "52320.0",
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": "159.6",
+      "Attack": 159.6,
+      "Defense": 159.6,
+      "Speed": 159.6,
+      "coins": 54720,
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Xerneas",
+      "type": "Fairy",
+      "HP": "167.6",
+      "Attack": 174.23000000000002,
+      "Defense": 126.35,
+      "Speed": 131.67,
+      "coins": 51414,
+      "skill": [
+        "Fairy Aura"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/716.png"
+    },
+    {
+      "name": "Heatran",
+      "type": "Fire",
+      "HP": 91,
+      "Attack": 90,
+      "Defense": 106,
+      "Speed": 77,
+      "coins": 36400,
+      "skill": [
+        "Flash Fire",
+        "Flame Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/485.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": "63.0",
+      "Attack": "68.6",
+      "Defense": "68.6",
+      "Speed": "63.0",
+      "coins": "22560.0",
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Necrozma",
+      "type": "Psychic",
+      "HP": 97,
+      "Attack": 107,
+      "Defense": 101,
+      "Speed": 79,
+      "coins": 38400,
+      "skill": [
+        "Prism Armor"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/800.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 2,
+    "draw": 2
+  }
+}

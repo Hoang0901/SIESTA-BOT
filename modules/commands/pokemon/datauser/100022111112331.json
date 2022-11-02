@@ -1,0 +1,175 @@
+{
+  "name": "Trần Nhật Huy",
+  "ID": "100022111112331",
+  "pet": [
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": 100.7,
+      "Attack": 104.5,
+      "Defense": 85.5,
+      "Speed": 123.5,
+      "coins": 41420,
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    },
+    {
+      "name": "Jirachi",
+      "type": "Steel",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Serene Grace"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/385.png"
+    },
+    {
+      "name": "Suicune",
+      "type": "Water",
+      "HP": 100,
+      "Attack": 75,
+      "Defense": 115,
+      "Speed": 85,
+      "coins": 37500,
+      "skill": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/245.png"
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Speed": 90,
+      "coins": 22000,
+      "skill": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png"
+    },
+    {
+      "name": "Greninja",
+      "type": "Water",
+      "HP": 72,
+      "Attack": 95,
+      "Defense": 67,
+      "Speed": 122,
+      "coins": 35600,
+      "skill": [
+        "Torrent",
+        "Protean"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/658.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": 120,
+      "Attack": 120,
+      "Defense": 120,
+      "Speed": 120,
+      "coins": 48000,
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Mew",
+      "type": "Psychic",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Synchronize"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/151.png"
+    },
+    {
+      "name": "Xerneas",
+      "type": "Fairy",
+      "HP": 126,
+      "Attack": 131,
+      "Defense": 95,
+      "Speed": 99,
+      "coins": 45100,
+      "skill": [
+        "Fairy Aura"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/716.png"
+    },
+    {
+      "name": "Yveltal",
+      "type": "Dark",
+      "HP": 126,
+      "Attack": 131,
+      "Defense": 95,
+      "Speed": 99,
+      "coins": 45100,
+      "skill": [
+        "Dark Aura"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/717.png"
+    },
+    {
+      "name": "Kyogre",
+      "type": "Water",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 90,
+      "Speed": 90,
+      "coins": 38000,
+      "skill": [
+        "Drizzle"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/382.png"
+    },
+    {
+      "name": "Lugia",
+      "type": "Psychic",
+      "HP": 106,
+      "Attack": 90,
+      "Defense": 130,
+      "Speed": 110,
+      "coins": 43600,
+      "skill": [
+        "Pressure",
+        "Multiscale"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/249.png"
+    },
+    {
+      "name": "Meowth",
+      "type": "Normal",
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 35,
+      "Speed": 90,
+      "coins": 21000,
+      "skill": [
+        "Pickup",
+        "Technician",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/052.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}

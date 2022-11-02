@@ -1,0 +1,52 @@
+{
+  "name": "Quốc Đạt",
+  "ID": "100067679103911",
+  "pet": [
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": 120,
+      "Attack": 120,
+      "Defense": 120,
+      "Speed": 120,
+      "coins": 48000,
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Groudon",
+      "type": "Ground",
+      "HP": 100,
+      "Attack": 150,
+      "Defense": 140,
+      "Speed": 90,
+      "coins": 48000,
+      "skill": [
+        "Drought"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/383.png"
+    },
+    {
+      "name": "Dialga",
+      "type": "Steel",
+      "HP": 100,
+      "Attack": 120,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 43000,
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/483.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

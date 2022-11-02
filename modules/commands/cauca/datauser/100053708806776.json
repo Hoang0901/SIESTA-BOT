@@ -1,0 +1,37 @@
+{
+  "name": "Ko Có Tên",
+  "ID": "100053708806776",
+  "mainROD": null,
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": null
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 20,
+      "countdown": 300,
+      "countdownData": null,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 60000,
+      "countdown": 5,
+      "countdownData": null,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    }
+  ],
+  "timeRegister": "6/10/2022, 10:14:27 PM"
+}

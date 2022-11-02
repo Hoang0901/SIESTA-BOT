@@ -1,0 +1,147 @@
+{
+  "name": "Kingu Karasu",
+  "ID": "100056762990310",
+  "pet": [
+    {
+      "name": "Exeggcute",
+      "type": "Grass",
+      "HP": "90.0",
+      "Attack": "60.0",
+      "Defense": "120.0",
+      "Speed": "60.0",
+      "skill": [
+        "Chlorophyll",
+        "Harvest"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/102.png"
+    },
+    {
+      "name": "Altaria",
+      "type": "Dragon",
+      "HP": "75.0",
+      "Attack": "70.0",
+      "Defense": "90.0",
+      "Speed": "80.0",
+      "skill": [
+        "Natural Cure",
+        "Cloud Nine"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/334.png"
+    },
+    {
+      "name": "Nidoqueen",
+      "type": "Poison",
+      "HP": 90,
+      "Attack": 92,
+      "Defense": 87,
+      "Speed": 76,
+      "coins": 34500,
+      "skill": [
+        "Poison Point",
+        "Rivalry",
+        "Sheer Force"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/031.png"
+    },
+    {
+      "name": "Arcanine",
+      "type": "Fire",
+      "HP": 90,
+      "Attack": 110,
+      "Defense": 80,
+      "Speed": 95,
+      "coins": 37500,
+      "skill": [
+        "Intimidate",
+        "Flash Fire",
+        "Justified"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/059.png"
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": "148.4",
+      "Attack": "154.0",
+      "Defense": "126.0",
+      "Speed": "182.0",
+      "coins": "52320.0",
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    },
+    {
+      "name": "Mew",
+      "type": "Psychic",
+      "HP": "140.0",
+      "Attack": "140.0",
+      "Defense": "140.0",
+      "Speed": "140.0",
+      "coins": "48000.0",
+      "skill": [
+        "Synchronize"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/151.png"
+    },
+    {
+      "name": "Dragonite",
+      "type": "Dragon",
+      "HP": 91,
+      "Attack": 134,
+      "Defense": 95,
+      "Speed": 80,
+      "coins": 40000,
+      "skill": [
+        "Inner Focus",
+        "Multiscale"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/149.png"
+    },
+    {
+      "name": "Slaking",
+      "type": "Normal",
+      "HP": "210.0",
+      "Attack": "224.0",
+      "Defense": "140.0",
+      "Speed": "140.0",
+      "coins": "61200.0",
+      "skill": [
+        "Truant"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/289.png"
+    },
+    {
+      "name": "Salamence",
+      "type": "Dragon",
+      "HP": "133.0",
+      "Attack": "189.0",
+      "Defense": "112.0",
+      "Speed": "140.0",
+      "coins": "49200.0",
+      "skill": [
+        "Intimidate",
+        "Moxie"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/373.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Hot Pot a la Cube",
+      "type": "Fire",
+      "HP": 20,
+      "Attack": 20,
+      "Defense": 20,
+      "Speed": 20
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

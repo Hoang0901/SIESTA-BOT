@@ -1,0 +1,18 @@
+{
+    "name": "Trần Nhật Huy",
+    "ID": "100022111112331",
+    "shield": 3,
+    "coins": 20000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 20,
+    "timeRegister": "5/10/2022, 9:17:54 AM"
+}

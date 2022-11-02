@@ -1,0 +1,84 @@
+{
+  "name": "Trịnh Đại Phát",
+  "ID": "100069489069077",
+  "pet": [
+    {
+      "name": "Nosepass",
+      "type": "Rock",
+      "HP": 11.4,
+      "Attack": 17.1,
+      "Defense": 51.3,
+      "Speed": 11.4,
+      "skill": [
+        "Sturdy",
+        "Magnet Pull",
+        "Sand Force"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/299.png"
+    },
+    {
+      "name": "Electrode",
+      "type": "Electric",
+      "HP": "90.04.5NaN",
+      "Attack": "75.03.75NaN",
+      "Defense": "105.05.25NaN",
+      "Speed": "225.011.25NaN",
+      "skill": [
+        "Soundproof",
+        "Static",
+        "Aftermath"
+      ],
+      "coins": 22050,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/101.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "coins": 18800,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Luxray",
+      "type": "Electric",
+      "HP": "80.0",
+      "Attack": "120.0",
+      "Defense": "79.0",
+      "Speed": "70.0",
+      "skill": [
+        "Rivalry",
+        "Intimidate",
+        "Guts"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/405.png"
+    },
+    {
+      "name": "Zekrom",
+      "type": "Dragon",
+      "HP": 100,
+      "Attack": 150,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 46000,
+      "skill": [
+        "Teravolt"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 2,
+    "lose": 1,
+    "draw": 2
+  }
+}

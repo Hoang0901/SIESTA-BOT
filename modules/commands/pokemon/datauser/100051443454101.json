@@ -1,0 +1,129 @@
+{
+  "name": "Minh Khang Lê",
+  "ID": "100051443454101",
+  "pet": [
+    {
+      "name": "Tyrantrum",
+      "type": "Rock",
+      "HP": 82,
+      "Attack": 121,
+      "Defense": 119,
+      "Speed": 71,
+      "coins": 39300,
+      "skill": [
+        "Strong Jaw",
+        "Rock Head"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/697.png"
+    },
+    {
+      "name": "Buzzwole",
+      "type": "Bug",
+      "HP": 107,
+      "Attack": 139,
+      "Defense": 139,
+      "Speed": 79,
+      "coins": 46400,
+      "skill": [
+        "Beast Boost"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/794.png"
+    },
+    {
+      "name": "Zekrom",
+      "type": "Dragon",
+      "HP": 100,
+      "Attack": 150,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 46000,
+      "skill": [
+        "Teravolt"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": "168.0",
+      "Attack": "168.0",
+      "Defense": "168.0",
+      "Speed": "168.0",
+      "coins": "57600.0",
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Kartana",
+      "type": "Grass",
+      "HP": 59,
+      "Attack": 181,
+      "Defense": 131,
+      "Speed": 109,
+      "coins": 48000,
+      "skill": [
+        "Beast Boost"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/798.png"
+    },
+    {
+      "name": "Solgaleo",
+      "type": "Psychic",
+      "HP": "191.89.59NaN",
+      "Attack": "191.89.59NaN",
+      "Defense": "149.87.49NaN",
+      "Speed": "135.86.79NaN",
+      "coins": "57360.028682868.001434",
+      "skill": [
+        "Full Metal Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/791.png"
+    },
+    {
+      "name": "Snorlax",
+      "type": "Normal",
+      "HP": "160.0",
+      "Attack": "110.0",
+      "Defense": "65.0",
+      "Speed": "30.0",
+      "skill": [
+        "Immunity",
+        "Thick Fat",
+        "Gluttony"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/143.png"
+    },
+    {
+      "name": "Moltres",
+      "type": "Fire",
+      "HP": "36.0",
+      "Attack": "40.0",
+      "Defense": "36.0",
+      "Speed": "36.0",
+      "skill": [
+        "Pressure",
+        "Flame Body"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/146.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Veggie Smoothie a la Cube",
+      "type": "Normal",
+      "HP": 16,
+      "Attack": 16,
+      "Defense": 16,
+      "Speed": 16
+    }
+  ],
+  "solo": {
+    "win": 2,
+    "lose": 0,
+    "draw": 2
+  }
+}

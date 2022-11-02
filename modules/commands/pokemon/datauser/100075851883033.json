@@ -1,0 +1,93 @@
+{
+  "name": "Quan Truong",
+  "ID": "100075851883033",
+  "pet": [
+    {
+      "name": "Greninja",
+      "type": "Water",
+      "HP": "68.4",
+      "Attack": 90.25,
+      "Defense": 63.65,
+      "Speed": 115.9,
+      "coins": 33820,
+      "skill": [
+        "Torrent",
+        "Protean"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/658.png"
+    },
+    {
+      "name": "Gengar",
+      "type": "Ghost",
+      "HP": "84.0",
+      "Attack": "91.0",
+      "Defense": "84.0",
+      "Speed": "154.0",
+      "coins": "35400.0",
+      "skill": [
+        "Cursed Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/094.png"
+    },
+    {
+      "name": "Blaziken",
+      "type": "Fire",
+      "HP": "76.0",
+      "Attack": 114,
+      "Defense": 66.5,
+      "Speed": 76,
+      "coins": 33250,
+      "skill": [
+        "Blaze",
+        "Speed Boost"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/257.png"
+    },
+    {
+      "name": "Necrozma",
+      "type": "Psychic",
+      "HP": "135.8",
+      "Attack": "149.8",
+      "Defense": "141.4",
+      "Speed": "110.6",
+      "coins": "46080.0",
+      "skill": [
+        "Prism Armor"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/800.png"
+    },
+    {
+      "name": "Lunala",
+      "type": "Psychic",
+      "HP": "201.4",
+      "Attack": "166.1",
+      "Defense": "130.8",
+      "Speed": "142.6",
+      "coins": "54936.0",
+      "skill": [
+        "Shadow Shield"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/792.png"
+    },
+    {
+      "name": "Serperior",
+      "type": "Grass",
+      "HP": "105.0",
+      "Attack": "105.0",
+      "Defense": "133.0",
+      "Speed": "158.2",
+      "coins": "42960.0",
+      "skill": [
+        "Overgrow",
+        "Contrary"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/497.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 2,
+    "lose": 4,
+    "draw": 7
+  }
+}

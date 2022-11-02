@@ -1,0 +1,20 @@
+{
+    "name": "Khanhh Ngocc",
+    "ID": "100053456287121",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "6/7/2022, 10:41:24 AM"
+}

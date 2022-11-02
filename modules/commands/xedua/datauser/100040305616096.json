@@ -1,0 +1,18 @@
+{
+    "name": "Thuận Nè",
+    "ID": "100040305616096",
+    "shield": 3,
+    "coins": 200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 10
+        }
+    },
+    "spin": 20,
+    "timeRegister": "6/6/2022, 6:47:03 PM"
+}

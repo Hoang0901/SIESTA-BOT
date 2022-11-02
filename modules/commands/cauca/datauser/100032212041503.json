@@ -1,0 +1,192 @@
+{
+  "name": "Nguyễn Lý Hải",
+  "ID": "100032212041503",
+  "mainROD": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Arctic"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 4,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    },
+    {
+      "ID": 5,
+      "name": "Void Chelicerate",
+      "category": "Legendary",
+      "size": 6500,
+      "sell": 1107080,
+      "image": "https://i.imgur.com/VuLnzT8.png"
+    },
+    {
+      "ID": 6,
+      "name": "Ghost Leviathan Juvenile",
+      "category": "Legendary",
+      "size": 6700,
+      "sell": 720500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 7,
+      "name": "Sea Monkey",
+      "category": "Rare",
+      "size": 120,
+      "sell": 1100,
+      "image": "https://i.imgur.com/QsbkHfj.png"
+    },
+    {
+      "ID": 8,
+      "name": "Pinnacarid",
+      "category": "Uncommon",
+      "size": 54,
+      "sell": 480,
+      "image": "https://i.imgur.com/pbOeb3U.png"
+    },
+    {
+      "ID": 9,
+      "name": "Sea Monkey",
+      "category": "Rare",
+      "size": 120,
+      "sell": 1100,
+      "image": "https://i.imgur.com/QsbkHfj.png"
+    },
+    {
+      "ID": 10,
+      "name": "Pengling",
+      "category": "Uncommon",
+      "size": 63,
+      "sell": 650,
+      "image": "https://i.imgur.com/Qy0kJT5.png"
+    },
+    {
+      "ID": 11,
+      "name": "Pengling",
+      "category": "Uncommon",
+      "size": 63,
+      "sell": 650,
+      "image": "https://i.imgur.com/Qy0kJT5.png"
+    },
+    {
+      "ID": 12,
+      "name": "Pengwing",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 220,
+      "image": "https://i.imgur.com/dH8XB25.png"
+    },
+    {
+      "ID": 13,
+      "name": "Sea Monkey",
+      "category": "Rare",
+      "size": 120,
+      "sell": 1100,
+      "image": "https://i.imgur.com/QsbkHfj.png"
+    },
+    {
+      "ID": 14,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 15,
+      "name": "Cryptosuchus",
+      "category": "Rare",
+      "size": 650,
+      "sell": 3440,
+      "image": "https://i.imgur.com/LZQ1901.png"
+    },
+    {
+      "ID": 16,
+      "name": "Cryptosuchus",
+      "category": "Rare",
+      "size": 650,
+      "sell": 3440,
+      "image": "https://i.imgur.com/LZQ1901.png"
+    },
+    {
+      "ID": 17,
+      "name": "Cryptosuchus",
+      "category": "Rare",
+      "size": 650,
+      "sell": 3440,
+      "image": "https://i.imgur.com/LZQ1901.png"
+    },
+    {
+      "ID": 18,
+      "name": "Cryptosuchus",
+      "category": "Rare",
+      "size": 650,
+      "sell": 3440,
+      "image": "https://i.imgur.com/LZQ1901.png"
+    },
+    {
+      "ID": 19,
+      "name": "Bladderfish",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/W5IegiJ.png"
+    },
+    {
+      "ID": 20,
+      "name": "Glow Whale",
+      "category": "Epic",
+      "size": 30,
+      "sell": 15120,
+      "image": "https://i.imgur.com/DkQGFvG.png"
+    },
+    {
+      "ID": 21,
+      "name": "Pengling",
+      "category": "Uncommon",
+      "size": 63,
+      "sell": 650,
+      "image": "https://i.imgur.com/Qy0kJT5.png"
+    }
+  ],
+  "item": [
+    {
+      "countdownData": null
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 1675000,
+      "durability": 59530,
+      "countdown": 5,
+      "countdownData": 1647868384665,
+      "image": "https://i.imgur.com/EDozSgg.jpg"
+    },
+    {
+      "name": "Jeweled Tungsten Harpoon",
+      "price": 29000,
+      "durability": 900,
+      "countdown": 30,
+      "countdownData": null,
+      "image": "https://i.imgur.com/P4l8Ivq.jpg"
+    },
+    {
+      "name": "Ion Powered Trident",
+      "price": 57000,
+      "durability": 2000,
+      "countdown": 15,
+      "countdownData": null,
+      "image": "https://i.imgur.com/W5dAfCn.jpg"
+    }
+  ],
+  "timeRegister": "3/14/2022, 7:13:03 PM"
+}

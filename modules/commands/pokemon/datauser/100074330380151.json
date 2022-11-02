@@ -1,0 +1,27 @@
+{
+  "name": "Bùi Trí Dũng",
+  "ID": "100074330380151",
+  "pet": [
+    {
+      "name": "Hawlucha",
+      "type": "Fighting",
+      "HP": "117.0",
+      "Attack": "138.0",
+      "Defense": "112.5",
+      "Speed": "177.0",
+      "skill": [
+        "Limber",
+        "Unburden",
+        "Mold Breaker"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/701.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

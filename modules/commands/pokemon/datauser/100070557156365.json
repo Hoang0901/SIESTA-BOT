@@ -1,0 +1,114 @@
+{
+  "name": "Kim Thư",
+  "ID": "100070557156365",
+  "pet": [
+    {
+      "name": "Kricketune",
+      "type": "Bug",
+      "HP": 29.26,
+      "Attack": 32.3,
+      "Defense": 19.38,
+      "Speed": 24.7,
+      "skill": [
+        "Swarm",
+        "Technician"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/402.png"
+    },
+    {
+      "name": "Sigilyph",
+      "type": "Psychic",
+      "HP": "108.08",
+      "Attack": "87.08",
+      "Defense": "120.08",
+      "Speed": "145.58",
+      "skill": [
+        "Wonder Skin",
+        "Magic Guard",
+        "Tinted Lens"
+      ],
+      "coins": 22500,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/561.png"
+    },
+    {
+      "name": "Roserade",
+      "type": "Grass",
+      "HP": "60.0",
+      "Attack": "70.0",
+      "Defense": "65.0",
+      "Speed": "90.0",
+      "skill": [
+        "Natural Cure",
+        "Poison Point",
+        "Technician"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/407.png"
+    },
+    {
+      "name": "Rhyhorn",
+      "type": "Ground",
+      "HP": "40.0",
+      "Attack": "42.5",
+      "Defense": "47.5",
+      "Speed": "12.5",
+      "skill": [
+        "Lightning Rod",
+        "Rock Head",
+        "Reckless"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/111.png"
+    },
+    {
+      "name": "Kadabra",
+      "type": "Psychic",
+      "HP": "60.0",
+      "Attack": "52.5",
+      "Defense": "45.0",
+      "Speed": "157.5",
+      "skill": [
+        "Synchronize",
+        "Inner Focus",
+        "Magic Guard"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/064.png"
+    },
+    {
+      "name": "Sandshrew",
+      "type": "Ground",
+      "HP": "50.0",
+      "Attack": "75.0",
+      "Defense": "85.0",
+      "Speed": "40.0",
+      "skill": [
+        "Sand Veil",
+        "Sand Rush"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/027.png"
+    },
+    {
+      "name": "Anorith",
+      "type": "Rock",
+      "HP": 21.375,
+      "Attack": 45.125,
+      "Defense": 23.75,
+      "Speed": 35.625,
+      "skill": [
+        "Battle Armor",
+        "Swift Swim"
+      ],
+      "coins": 4750,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/347.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 2,
+    "draw": 0
+  }
+}

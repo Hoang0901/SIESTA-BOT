@@ -1,0 +1,186 @@
+{
+  "name": "Tiến Phát",
+  "ID": "100074801445567",
+  "pet": [
+    {
+      "name": "Mudkip",
+      "type": "Water",
+      "HP": "75.0",
+      "Attack": "105.0",
+      "Defense": "75.0",
+      "Speed": "60.0",
+      "skill": [
+        "Torrent",
+        "Damp"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/258.png"
+    },
+    {
+      "name": "Pichu",
+      "type": "Electric",
+      "HP": "30.0",
+      "Attack": "60.0",
+      "Defense": "22.5",
+      "Speed": "90.0",
+      "skill": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/172.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": "168.0",
+      "Attack": "168.0",
+      "Defense": "168.0",
+      "Speed": "168.0",
+      "coins": "57600.0",
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Solgaleo",
+      "type": "Psychic",
+      "HP": "191.8",
+      "Attack": "191.8",
+      "Defense": "149.8",
+      "Speed": "135.8",
+      "coins": "57360.0",
+      "skill": [
+        "Full Metal Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/791.png"
+    },
+    {
+      "name": "Necrozma",
+      "type": "Psychic",
+      "HP": "135.8",
+      "Attack": "149.8",
+      "Defense": "141.4",
+      "Speed": "110.6",
+      "coins": "46080.0",
+      "skill": [
+        "Prism Armor"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/800.png"
+    },
+    {
+      "name": "Dialga",
+      "type": "Steel",
+      "HP": "140.0",
+      "Attack": "168.0",
+      "Defense": "168.0",
+      "Speed": "126.0",
+      "coins": "51600.0",
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/483.png"
+    },
+    {
+      "name": "Palkia",
+      "type": "Water",
+      "HP": "126.0",
+      "Attack": "168.0",
+      "Defense": "140.0",
+      "Speed": "140.0",
+      "coins": "49200.0",
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/484.png"
+    },
+    {
+      "name": "Giratina",
+      "type": "Ghost",
+      "HP": "210.0",
+      "Attack": "140.0",
+      "Defense": "168.0",
+      "Speed": "126.0",
+      "coins": "55200.0",
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/487.png"
+    },
+    {
+      "name": "Groudon",
+      "type": "Ground",
+      "HP": "140.0",
+      "Attack": "210.0",
+      "Defense": "196.0",
+      "Speed": "126.0",
+      "coins": "57600.0",
+      "skill": [
+        "Drought"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/383.png"
+    },
+    {
+      "name": "Darkrai",
+      "type": "Dark",
+      "HP": "98.0",
+      "Attack": "126.0",
+      "Defense": "126.0",
+      "Speed": "175.0",
+      "coins": "45000.0",
+      "skill": [
+        "Bad Dreams"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/491.png"
+    },
+    {
+      "name": "Regigigas",
+      "type": "Normal",
+      "HP": 110,
+      "Attack": 160,
+      "Defense": 110,
+      "Speed": 100,
+      "coins": 48000,
+      "skill": [
+        "Slow Start"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/486.png"
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": "147.0",
+      "Attack": "210.0",
+      "Defense": "126.0",
+      "Speed": "133.0",
+      "coins": "52800.0",
+      "skill": [
+        "Air Lock"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Deoxys",
+      "type": "Psychic",
+      "HP": "70.0",
+      "Attack": "210.0",
+      "Defense": "70.0",
+      "Speed": "210.0",
+      "coins": "48000.0",
+      "skill": [
+        "Pressure"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/386.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

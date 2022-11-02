@@ -1,0 +1,18 @@
+{
+    "name": "Nguyễn Trung",
+    "ID": "100052576276277",
+    "shield": 3,
+    "coins": 2200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 20,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 20,
+    "timeRegister": "5/26/2022, 1:09:21 PM"
+}

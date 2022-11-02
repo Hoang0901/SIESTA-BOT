@@ -1,0 +1,27 @@
+{
+    "100084923106912": [
+        {
+            "type": "message_reply",
+            "name": "Minh Nhat",
+            "message": "Đã chuyển cho NGUYEN TRONG HOANG 100000 coins",
+            "time": "01/11/2022 11:59:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Minh Nhat",
+            "message": "Số money của thành viên nhóm đã được reset về mức 0 !",
+            "time": "01/11/2022 12:45:41",
+            "attachment": []
+        }
+    ],
+    "100067716581530": [
+        {
+            "type": "message",
+            "name": "Lê Ngọc Mai",
+            "message": "/reset user",
+            "time": "01/11/2022 12:45:40",
+            "attachment": []
+        }
+    ]
+}

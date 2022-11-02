@@ -1,0 +1,68 @@
+{
+  "pet": [
+    "Mèo",
+    "Vịt Zàng",
+    "Vịt Zàng"
+  ],
+  "lv": [
+    "0",
+    "0",
+    "0"
+  ],
+  "exp": [
+    294,
+    "0",
+    "0"
+  ],
+  "food": [
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên",
+    "Cá viên chiên"
+  ],
+  "user": [
+    1654321323108
+  ],
+  "died": [
+    1654492905999,
+    1654407290511,
+    1654407723108
+  ],
+  "covid": [
+    1000000000000000000
+  ]
+}
