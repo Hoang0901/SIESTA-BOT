@@ -1,5 +1,4 @@
-## 𝙎𝙄𝙀𝙎𝙏𝘼-𝘽𝙊𝙏 MODULES
-
+## ---------------------------------------𝙎𝙄𝙀𝙎𝙏𝘼-𝘽𝙊𝙏 MODULES---------------------------------------
 <h1 align="center">
 	<img src="https://i.imgur.com/Zm5psnf.png" alt="Terris">
 </h1>
