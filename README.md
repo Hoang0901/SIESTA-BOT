@@ -4,7 +4,7 @@
 	<img src="https://i.imgur.com/Zm5psnf.png" alt="Terris">
 </h1>
 
-## ĐỌC KĨ README TRƯỚC KHI SỬ DỤNG TRÁNH LỖI KHÔNG MONG MUỐN !
+# ⚠️ĐỌC KĨ README TRƯỚC KHI SỬ DỤNG TRÁNH LỖI KHÔNG MONG MUỐN !
 
 # Cập nhật lần cuối: 01/11/2022
 
@@ -38,6 +38,4 @@
 # Tác Giả
 - **Terris** - [GitHub](https://github.com/Hoang0901) - [Facebook](https://www.facebook.com/t.hoang0901/)
 
-# ⚠️KHÔNG CHỊU TRÁCH NHIỆM HAY BẤT KÌ LỖI NÀO TỪ FILE BOT KHI BẠN ĐÃ BẮT ĐẦU THÊM MỘT FILE HAY MỘT THAO TÁC MỚI⚠️#   S I E S T A - B O T 
- 
- 
+# ⚠️KHÔNG CHỊU TRÁCH NHIỆM HAY BẤT KÌ LỖI NÀO TỪ FILE BOT KHI BẠN ĐÃ BẮT ĐẦU THÊM MỘT FILE HAY MỘT THAO TÁC MỚI⚠️
