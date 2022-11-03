@@ -50,7 +50,7 @@ module.exports.handleReply = async function ({ api, event, handleReply }) {
         if (fs.statSync(path).size > 26214400) return api.sendMessage('Không thể gửi file vì dung lượng lớn hơn 25MB.', event.threadID, () => fs.unlinkSync(path), event.messageID);
         api.unsendMessage(handleReply.messageID)
         return api.sendMessage({ 
-		body: `🎵 Title: ${data.title}\n🎶 Name Kênh: ${data.author}\n⏱️ Thời gian: ${this.convertHMS(data.dur)}\n👀 Lượt xem: ${data.viewCount}\n👍 Lượt thích: ${data.likes}\n⏱️Thời gian xử lý: ${Math.floor((Date.now()- data.timestart)/1000)} giây\n💿====DISME PROJECT====💿`,
+		body: `🎵 Title: ${data.title}\n🎶 Name Kênh: ${data.author}\n⏱️ Thời gian: ${this.convertHMS(data.dur)}\n👀 Lượt xem: ${data.viewCount}\n👍 Lượt thích: ${data.likes}\n⏱️Thời gian xử lý: ${Math.floor((Date.now()- data.timestart)/1000)} giây\n💿====𝙏𝙀𝙍𝙍𝙄𝙎====💿`,
             attachment: fs.createReadStream(path)}, event.threadID, ()=> fs.unlinkSync(path), 
          event.messageID)
             
@@ -79,7 +79,7 @@ module.exports.run = async function ({ api, event, args }) {
             var data = await downloadMusicFromYoutube(args.join(" "), path);
             if (fs.statSync(path).size > 26214400) return api.sendMessage('Không thể gửi file vì dung lượng lớn hơn 25MB.', event.threadID, () => fs.unlinkSync(path), event.messageID);
             return api.sendMessage({ 
-                body: `🎵 Title: ${data.title}\n🎶 Name Kênh: ${data.author}\n⏱️ Thời gian: ${this.convertHMS(data.dur)}\n👀 Lượt xem: ${data.viewCount}\n👍 Lượt thích: ${data.likes}\n⏱️Thời gian xử lý: ${Math.floor((Date.now()- data.timestart)/1000)} giây\n💿====DISME PROJECT====💿`,
+                body: `🎵 Title: ${data.title}\n🎶 Name Kênh: ${data.author}\n⏱️ Thời gian: ${this.convertHMS(data.dur)}\n👀 Lượt xem: ${data.viewCount}\n👍 Lượt thích: ${data.likes}\n⏱️Thời gian xử lý: ${Math.floor((Date.now()- data.timestart)/1000)} giây\n💿====𝙏𝙀𝙍𝙍𝙄𝙎====💿`,
                 attachment: fs.createReadStream(path)}, event.threadID, ()=> fs.unlinkSync(path), 
             event.messageID)
             
@@ -91,7 +91,7 @@ module.exports.run = async function ({ api, event, args }) {
                 msg = "",
                 num = 0
             const Youtube = require('youtube-search-api');
-            var data = (await Youtube.GetListByKeyword(keywordSearch, false,6)).items;
+            var data = (await Youtube.GetListByKeyword(keywordSearch, false,10)).items;
             for (let value of data) {
               link.push(value.id);
               num = num+=1
