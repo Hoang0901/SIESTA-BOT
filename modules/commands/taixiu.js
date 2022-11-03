@@ -20,6 +20,8 @@ module.exports.run = async function ({ api, event, args, Currencies, Users }) {
     const money = args[1]
     if (money < 50 || isNaN(money)) return api.sendMessage("Mức đặt cược của bạn không phù hợp hoặc dưới 50$!!!", threadID, messageID);
     if (moneyUser < money) return api.sendMessage(`⚡️Số dư bạn không đủ ${money}$ để có thể chơi`, threadID, messageID);
+    //if (money > 1000000 || isNaN(money)) return api.sendMessage("Mức đặt cược của bạn không được quá 1000000$!!!\n(Tránh tình trạng buff tiền)", threadID, messageID);
+    //them vao neu muon gioi han tien dat cuoc
     try {
         const res = await axios.get(`https://api-dien.senthanh20055.repl.co/taixiu`)
   const ketqua = res.data.total;
