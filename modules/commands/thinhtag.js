@@ -121,6 +121,7 @@ module.exports.run = async ({ api, event}) => {
 
         "Anh có thể cho em mượn một nụ hôn được không? Em hứa là sẽ trả lại đầy đủ."
     ];
+    //con.st gai dang bị lỗilỗi
     const trai = ["Em có muốn con mình sau này có ADN của anh không?.",
 
         "Anh cho phép em ở mãi trong trái tim anh đấy.",
