@@ -19,8 +19,6 @@ module.exports.run = async ({ api, event}) => {
                  "Một sinh nhật sắp đến, cũng là lúc mày bắt đầu bước sang một tuổi mới, chúc mày thêm tuổi mới thêm lớn hơn, thêm đẹp hơn, giàu hơn để còn bao t ăn=)).",
                  "Chúc cậu có một ngày sinh nhật ý nghĩa bên những người mà mình yêu mến. Hãy luôn vui cười, cố gắng hết mình, tự tin hơn nữa để đón chào những thành công đang trên đường tiến đến với cậu nhé!"
     ];
-  \\Khong add loi chuc tại con.st gai vì đang lỗi
-  
     const trai = ["Em chúc anh/chị có một sinh nhật thật vui vẻ và ấm áp bên những người thân yêu. Chúc chị mãi xinh đẹp/anh mãi đẹp trai và hạnh phúc nhé!",
                   
                   "Chúc đứa bạn của tôi có một sinh nhật thật ấm áp và vui vẻ. Chúc mọi điều tốt đẹp nhất sẽ đến với mày trong tuổi mới này nhé!",
@@ -56,3 +54,4 @@ module.exports.run = async ({ api, event}) => {
   }
   
 }
+//con.st gái đang bị lỗi
