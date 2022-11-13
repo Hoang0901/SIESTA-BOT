@@ -42,10 +42,10 @@ module.exports.run = function({ api, event, args }) {
 			if (!group.some(item => item.group.toLowerCase() == commandConfig.config.commandCategory.toLowerCase())) group.push({ group: commandConfig.config.commandCategory.toLowerCase(), cmds: [commandConfig.config.name] });
 			else group.find(item => item.group.toLowerCase() == commandConfig.config.commandCategory.toLowerCase()).cmds.push(commandConfig.config.name);
 		}
-		group.forEach(commandGroup => msg += `📄「 ${commandGroup.group.charAt(0).toUpperCase() + commandGroup.group.slice(1)} 」📄\n🍁${commandGroup.cmds.join('\n🍁 ')}\n\n`);
+		group.forEach(commandGroup => msg += `🔰「 ${commandGroup.group.charAt(0).toUpperCase() + commandGroup.group.slice(1)} 」🔰\n\n🍁 ${commandGroup.cmds.join('\n🍁 ')}\n\n`);
 
     const moduleName = this.config.name;
-		return api.sendMessage(msg + `[ Sử dụng: "${(threadSetting.hasOwnProperty("PREFIX")) ? threadSetting.PREFIX : global.config.PREFIX}help từng lệnh ở trên" để xem chi tiết cách sử dụng! | Hiện tại đang có ${commands.size} lệnh có thể sử dụng trên bot này ]\nBot được vận hành bởi Siesta^^\nCảm ơn bạn đã sử dụng bot của mình ❤️🙆‍♂️\nVui lòng không spam bot nhé🙆‍♂️❤️\n🔥Sau 60s >menu sẽ tự động xóa để không bị trôi tin nhắn của thành viên box❤️🔥\nChi tiết liên hệ Admin:https://www.facebook.com/hoang.terris\n📣Bot chạy 24/24, nếu có lỗi hãy thông báo cho Admin\n---------------Thanks for using❤️❤️❤️-----------------`,event.threadID , (err, info)  => setTimeout ( () => { api.unsendMessage(info.messageID) } , 60000))
+		return api.sendMessage(msg + `[ Sử dụng: "${(threadSetting.hasOwnProperty("PREFIX")) ? threadSetting.PREFIX : global.config.PREFIX}help từng lệnh ở trên" để xem chi tiết cách sử dụng! | Hiện tại đang có ${commands.size} lệnh có thể sử dụng trên bot này ]\nBot được vận hành bởi Siesta^^\nCảm ơn bạn đã sử dụng bot của mình ❤️🙆‍♂️\nVui lòng không spam bot nhé🙆‍♂️❤️\n🔥Sau 60s >menu sẽ tự động xóa để không bị trôi tin nhắn của thành viên box❤️🔥\nChi tiết liên hệ Admin: https://www.facebook.com/hoang.terris\n📣Bot chạy 24/7, nếu có lỗi hãy thông báo cho Admin\n------------------Thanks for using❤️❤️❤️-------------------`,event.threadID , (err, info)  => setTimeout ( () => { api.unsendMessage(info.messageID) } , 60000))
 
 	}
 
