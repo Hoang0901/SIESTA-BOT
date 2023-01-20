@@ -16,7 +16,7 @@
 
 # File hỗ trợ cho replit là chủ yếu, chạy bằng cmd thì down zip về rồi thêm file .bat
 - **Bấm run để file tự update**
-- **Muốn chạy 24/7 thì dùng [Uptimerobot](https://uptimerobot.com/) xong sau đó thêm dòng chạy npm i express trong shell (đã có sẵn code uptime trong mirrai)**
+- **Muốn chạy 24/7 thì dùng [Uptimerobot](https://uptimerobot.com/)**
 
 # Cảnh Báo
 - **Cấm chỉnh sửa credits.**
