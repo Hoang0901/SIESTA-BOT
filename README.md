@@ -14,6 +14,10 @@
 - **- Đã qua chạy thử thành công lần cuối trước khi tạo share file**
 - ***- Còn một số file khác sửa đổi thông tin liên quan đến admin hay bot thì tự làm nhé, tôi không hướng dẫn***
 
+# File hỗ trợ cho replit là chủ yếu, chạy bằng cmd thì down zip về rồi thêm file .bat
+- **Bấm run để file tự update**
+- **Muốn chạy 24/7 thì dùng [Uptimerobot](https://uptimerobot.com/) xong sau đó thêm dòng chạy npm i express trong shell (đã có sẵn code uptime trong mirrai)**
+
 # Cảnh Báo
 - **Cấm chỉnh sửa credits.**
 
@@ -28,7 +32,7 @@
 
 # Cách fix các lỗi thường gặp:
 - ***-Lỗi 'EADDRINUSE' - Cách fix: gõ*** `busybox killall node` ***vào shell***
-- ***-Lỗi 'handleListener....' - Cách fix: thay acc chạy bot  ***
+- ***-Lỗi 'handleListener....' - Cách fix: thay acc chạy bot***
 - ***-Lỗi... (đang cập nhật)***
 
 # Một số cách sửa module:
