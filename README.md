@@ -28,6 +28,7 @@
 
 # Cách fix các lỗi thường gặp:
 - ***-Lỗi 'EADDRINUSE' - Cách fix: gõ*** `busybox killall node` ***vào shell***
+- ***-Lỗi 'handleListener....' - Cách fix: thay acc chạy bot  ***
 - ***-Lỗi... (đang cập nhật)***
 
 # Một số cách sửa module:
