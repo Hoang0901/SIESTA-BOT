@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////
 //========= Require all variable need use =========//
 /////////////////////////////////////////////////////
-const app = require ("express") (); app.get ('/', (req, res) => {res.send ("RUN BOT");});app.listen(process.env. PORT);
+
 const { readdirSync, readFileSync, writeFileSync, existsSync, unlinkSync, rm } = require("fs-extra");
 var log = require("./utils/log");
 const { join, resolve } = require("path");
