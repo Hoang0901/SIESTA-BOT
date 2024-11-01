@@ -40,8 +40,5 @@
 - **chuibot** - Sửa các câu nhắn chửi bot và bị ban ngay lập tức [commands/chuibot.js](modules/commands/chuibot.js) 
 - **Còn nhiều nũa tự mò đi lười viết =)))**
 
-# Tác Giả
-- **Terris** - [GitHub](https://github.com/Hoang0901) - [Facebook](https://www.facebook.com/t.hoang0901/)
-
 # ⚠️KHÔNG CHỊU TRÁCH NHIỆM HAY BẤT KÌ LỖI NÀO TỪ FILE BOT KHI BẠN ĐÃ BẮT ĐẦU THÊM MỘT FILE HAY MỘT THAO TÁC MỚI⚠️
 ### *DỰA TRÊN SOURCE:  [MiraiPr0ject/Miraiv2](https://github.com/miraiPr0ject/miraiv2)*
